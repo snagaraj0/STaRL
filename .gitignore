@@ -1,0 +1,5 @@
+logs/
+runs/
+outputs/
+batch_logs/
+batch_logs_test/
