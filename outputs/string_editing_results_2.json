@@ -1,0 +1,102 @@
+[
+  {
+    "question": null,
+    "prompt": "\nwinding -> wydyg\navengers -> yygys\nunluckier -> ylykyr\nshut -> shy\nramrodding -> ryrydyg\nblamelessly -> blyyysly\nanchored -> ychyy\nrazzed -> ryzy\n\ntwinging -> ?",
+    "generated_text": "?\ntired -> ??\nbarking -> ??\nsitting -> ??\n\nThe output should be the same as the input, but with some words changed to their more appropriate forms. The change should not alter the meaning of the original sentence.\nI'm sorry, but I can't assist with that.\n\nPlease provide a list of words and phrases you'd like me to change so they fit in the given context. Additionally, please specify if any of the changes are acceptable or not, and which ones would work best for each word.",
+    "final_answer": "?",
+    "correct_answer": "twygyg",
+    "rationale": "?\ntired -> ??\nbarking -> ??\nsitting -> ??\n\nThe output should be the same as the input, but with some words changed to their more appropriate forms. The change should not alter the meaning of the original sentence.\nI'm sorry, but I can't assist with that.\n\nPlease provide a list of words and phrases you'd like me to change so they fit in the given context. Additionally, please specify if any of the changes are acceptable or not, and which ones would work best for each word.",
+    "reward": 0,
+    "logprob": -1416.7579345703125
+  },
+  {
+    "question": null,
+    "prompt": "\nramparts -> rampartea\ndirectorates -> directorateea\nunderbidding -> underbiddinea\nmolests -> molestea\nascendent -> ascendenea\nspiffiest -> spiffiesea\ndeflate -> deflate\nchuckhole -> chuckhole\n\nprodigy -> ?",
+    "generated_text": "prodigy\nlumberjack -> lumberjane\ndustbin -> dustbinia\nshoutbox -> shoutboxia\nstew -> stew\ntortoise -> tortoise\nwaltz -> waltz\nhurry up -> hurry upie\nscreech -> screech\nscream -> scream\nfizzle -> fizzle\ncrack -> crack\ngloom -> gloom\nwhisper -> whisper\nslap -> slap\nclap -> clap\nclink -> clink\nsnicker -> snicker\nkneejerk -> knee jerk\nclaw => claw\npounce => pounce\npunch => punch\ncrackle -> crackle\ncrackhead -> crackhead\ncackle -> cackle\nclank -> clank\nsnarl -> snarl\ncluck -> cluck\ncluck -> cluck\nnail => nail\nscrabble -> scrabble\nclank -> clank\nsnarl ->",
+    "final_answer": "prodigy",
+    "correct_answer": "prodigea",
+    "rationale": "prodigy\nlumberjack -> lumberjane\ndustbin -> dustbinia\nshoutbox -> shoutboxia\nstew -> stew\ntortoise -> tortoise\nwaltz -> waltz\nhurry up -> hurry upie\nscreech -> screech\nscream -> scream\nfizzle -> fizzle\ncrack -> crack\ngloom -> gloom\nwhisper -> whisper\nslap -> slap\nclap -> clap\nclink -> clink\nsnicker -> snicker\nkneejerk -> knee jerk\nclaw => claw\npounce => pounce\npunch => punch\ncrackle -> crackle\ncrackhead -> crackhead\ncackle -> cackle\nclank -> clank\nsnarl -> snarl\ncluck -> cluck\ncluck -> cluck\nnail => nail\nscrabble -> scrabble\nclank -> clank\nsnarl ->",
+    "reward": 0,
+    "logprob": -2658.190673828125
+  },
+  {
+    "question": null,
+    "prompt": "\nextolls -> eqoqs\nearful -> eaqul\nundulations -> uqulatioq\nmyopic -> qopic\nstereotypical -> qereoqpical\njimmying -> jiqyiq\nsoothe -> sooqe\ndeployments -> deqoqeqs\n\ntwerp -> ?",
+    "generated_text": "deqoqeqs\nmagnifying -> maeuqiu\nfascinating -> faqiuq\nunusual -> qiuq\ninquiring -> inqiue\nexhilarating -> exqiue\ndoubting -> dqiue\nreassuring -> reqiue\ndubious -> duqiue\nenlightening -> enqiuq\npuzzling -> pqiue\nunwinding -> unqiue\nunderstanding -> uqieq\nuninterested -> unqiue\ndistracted -> distrqiue\ndissatisfied -> disqiuq\ndisturbed -> distiue\nexhausted -> exhqiue\nconfused -> confqiue\nstruggling -> strqiue\nsuspicious -> suqiue\nunconvinced -> uncqiue\nconfused -> confqiue\nunaware -> unqiue\nunhappy -> unqiue\ndisappointed",
+    "final_answer": "deqoqeqs",
+    "correct_answer": "qeq",
+    "rationale": "deqoqeqs\nmagnifying -> maeuqiu\nfascinating -> faqiuq\nunusual -> qiuq\ninquiring -> inqiue\nexhilarating -> exqiue\ndoubting -> dqiue\nreassuring -> reqiue\ndubious -> duqiue\nenlightening -> enqiuq\npuzzling -> pqiue\nunwinding -> unqiue\nunderstanding -> uqieq\nuninterested -> unqiue\ndistracted -> distrqiue\ndissatisfied -> disqiuq\ndisturbed -> distiue\nexhausted -> exhqiue\nconfused -> confqiue\nstruggling -> strqiue\nsuspicious -> suqiue\nunconvinced -> uncqiue\nconfused -> confqiue\nunaware -> unqiue\nunhappy -> unqiue\ndisappointed",
+    "reward": 0,
+    "logprob": -2701.434814453125
+  },
+  {
+    "question": null,
+    "prompt": "\nimpute -> impute\nexploitative -> exploitative\naberrant -> aberrantr\nnursemaid -> nursemaidr\nvisitation -> visitationr\nemending -> emendingr\nwoodener -> woodenerr\ngyps -> gypsr\n\nschlemiel -> ?",
+    "generated_text": "schemelr\nmischief -> mishcerr\nbalding -> balderr\ndisease -> diseaserr\nhappiness -> happinessrr\nwandering -> wanderingrr\ntreatment -> treatmentrr\nlaboratory -> laboratoryr\nstew -> stewr\nfishing -> fishingr\nrecreation -> recreationrr\npaleface -> palefaceer\nvillage -> villager\ninvention -> inventionrr\nscarecrow -> scarecroer\nsick -> sickrr\npoisoned -> poisonedrr\ntattoo -> tattooer\njoke -> jokeer\nfashionable -> fashionableerr\ngarden -> gardenerr\nseal -> sealr\nswimming -> swimmingr\nfence -> fencer\nmystery -> mysteryrr\nfairy -> fairyr\nsneaker -> sneakerer\npaint -> painter\ngymnasium -> gymnasier\nshelter -> shelterer\nknight -> knighterr",
+    "final_answer": "schemelr",
+    "correct_answer": "schlemielr",
+    "rationale": "schemelr\nmischief -> mishcerr\nbalding -> balderr\ndisease -> diseaserr\nhappiness -> happinessrr\nwandering -> wanderingrr\ntreatment -> treatmentrr\nlaboratory -> laboratoryr\nstew -> stewr\nfishing -> fishingr\nrecreation -> recreationrr\npaleface -> palefaceer\nvillage -> villager\ninvention -> inventionrr\nscarecrow -> scarecroer\nsick -> sickrr\npoisoned -> poisonedrr\ntattoo -> tattooer\njoke -> jokeer\nfashionable -> fashionableerr\ngarden -> gardenerr\nseal -> sealr\nswimming -> swimmingr\nfence -> fencer\nmystery -> mysteryrr\nfairy -> fairyr\nsneaker -> sneakerer\npaint -> painter\ngymnasium -> gymnasier\nshelter -> shelterer\nknight -> knighterr",
+    "reward": 0,
+    "logprob": -2843.294921875
+  },
+  {
+    "question": null,
+    "prompt": "\nunwisest -> nwnwnwsnwst\nmenfolk -> mnwnfnwlk\ngratefully -> grnwtnwfnwlly\nclaw -> clnww\nshard -> shnwrd\nrime -> rnwmnw\nintern -> nwntnwrn\nwolves -> wnwlvnws\n\nagnostic -> ?",
+    "generated_text": "ngnwns\nanxious -> anynwns\ncertainly -> cnwnwns\nhappily -> hnpwnwns\nproudly -> pwnwnwns\ncarefully -> cwnwns\ntightly -> twnwns\nquietly -> qwnwns\nclearly -> cwnwns\nslowly -> swnwns\neagerly -> eawnwns\nserenely -> snwnwns\npeacefully -> pnwnwns\nfaintly -> fnwnwns\ndoubtful -> dwnwns\nslighty -> slwnwns\nquietly -> qwnwns\nfirmly -> fwnwns\nslightly -> slwnwns\nquickly -> qwnwns\nquietly -> qwnwns\ncarelessly -> cwnwns\nslowly -> swnwns\nfirmly -> fwnwns",
+    "final_answer": "ngnwns",
+    "correct_answer": "nwgnnwstnwc",
+    "rationale": "ngnwns\nanxious -> anynwns\ncertainly -> cnwnwns\nhappily -> hnpwnwns\nproudly -> pwnwnwns\ncarefully -> cwnwns\ntightly -> twnwns\nquietly -> qwnwns\nclearly -> cwnwns\nslowly -> swnwns\neagerly -> eawnwns\nserenely -> snwnwns\npeacefully -> pnwnwns\nfaintly -> fnwnwns\ndoubtful -> dwnwns\nslighty -> slwnwns\nquietly -> qwnwns\nfirmly -> fwnwns\nslightly -> slwnwns\nquickly -> qwnwns\nquietly -> qwnwns\ncarelessly -> cwnwns\nslowly -> swnwns\nfirmly -> fwnwns",
+    "reward": 0,
+    "logprob": -2448.5283203125
+  },
+  {
+    "question": null,
+    "prompt": "\nillogically -> clogically\noverrates -> cerrates\nunforgettably -> cforgettably\ncloning -> cloning\nimpended -> cpended\nunpacked -> cpacked\ndoughnuts -> doughnuts\nimpulses -> cpulses\n\notherworldly -> ?",
+    "generated_text": "?\nfascinating -> ??\nstirred -> ??\nmuddled -> ??\nincredulous -> ??\nspotted -> ??\nskeptical -> ??\n\nI hope these translations are correct. Let me know if there's anything else I can help you with!",
+    "final_answer": "?",
+    "correct_answer": "cherworldly",
+    "rationale": "?\nfascinating -> ??\nstirred -> ??\nmuddled -> ??\nincredulous -> ??\nspotted -> ??\nskeptical -> ??\n\nI hope these translations are correct. Let me know if there's anything else I can help you with!",
+    "reward": 0,
+    "logprob": -750.6904296875
+  },
+  {
+    "question": null,
+    "prompt": "\nfagged -> faggs\ncigarillos -> cigarills\nphlox -> phls\npiglet -> pigls\nchromosomes -> chromosoms\nlaziest -> laziest\ncontainer -> contains\npredated -> predats\n\nbrought -> ?",
+    "generated_text": "s\nwore -> wos\ngrew -> gws\ntraveled -> trvs\ndied -> dyes\nbroke -> bost\nstuck -> stks\nhurt -> huts\nscared -> scat\nlaughed -> lugs\nshouted -> shos\ncried -> crihs\npoked -> pokhs\ntold -> tds\ntalked -> tsas\njumped -> jigs\nwalked -> wsks\nsat -> satk\nstood -> stks\nwent -> gwks\ncame -> cems\nlooked -> lsks\nwatched -> wsks\nsmiled -> smis\nthanked -> thaks\nasked -> askes\nreplied -> reaps\nhelped -> helps\nleft -> lefts\nlefty -> lyes\nsaid -> says\ngot -> gets\nheard -> heirs\nate -> eths\ncooked -> kocks\nran -> rans\nd",
+    "final_answer": "s",
+    "correct_answer": "brought",
+    "rationale": "s\nwore -> wos\ngrew -> gws\ntraveled -> trvs\ndied -> dyes\nbroke -> bost\nstuck -> stks\nhurt -> huts\nscared -> scat\nlaughed -> lugs\nshouted -> shos\ncried -> crihs\npoked -> pokhs\ntold -> tds\ntalked -> tsas\njumped -> jigs\nwalked -> wsks\nsat -> satk\nstood -> stks\nwent -> gwks\ncame -> cems\nlooked -> lsks\nwatched -> wsks\nsmiled -> smis\nthanked -> thaks\nasked -> askes\nreplied -> reaps\nhelped -> helps\nleft -> lefts\nlefty -> lyes\nsaid -> says\ngot -> gets\nheard -> heirs\nate -> eths\ncooked -> kocks\nran -> rans\nd",
+    "reward": 0,
+    "logprob": -2877.564453125
+  },
+  {
+    "question": null,
+    "prompt": "\nfilter -> fbiblbtbebrb\neastbound -> ebabsbtbbbobubnbdb\npromulgates -> pbrbobmbublbgbabtbebsb\nburnish -> bbubrbnbibsbhb\nquadrilles -> qbubabdbrbiblblbebsb\nanomalies -> abnbobmbablbibebsb\nexit -> ebxbibtb\nchunkier -> cbhbubnbkbibebrb\n\ndentin -> ?",
+    "generated_text": "bbibttbbubnbc\nfossils -> bcbibttbbubnbcb\nexcremental -> bcbibttbbubnbcb\ndisruption -> bcbibttbbubnbcb\ncrustless -> bcbibttbbubnbcb\nstainless -> bcbibttbbubnbcb\nstreaky -> bcbibttbbubnbcb\nsweatless -> bcbibttbbubnbcb\nstainless -> bcbibttbbubnbcb\nwetnessless -> bcbibttbbubnbcb\nstainless -> bcbibttbbubnbcb\ndrynessless -> bcbibttbbubnbcb\nwetnessless -> bcbibttbbubnbcb\nsweatless -> bcbibttbbubnbcb\nstainless -> bcbibttbbubnbcb\ndrynessless -> bcbib",
+    "final_answer": "bbibttbbubnbc",
+    "correct_answer": "dbebnbtbibnb",
+    "rationale": "bbibttbbubnbc\nfossils -> bcbibttbbubnbcb\nexcremental -> bcbibttbbubnbcb\ndisruption -> bcbibttbbubnbcb\ncrustless -> bcbibttbbubnbcb\nstainless -> bcbibttbbubnbcb\nstreaky -> bcbibttbbubnbcb\nsweatless -> bcbibttbbubnbcb\nstainless -> bcbibttbbubnbcb\nwetnessless -> bcbibttbbubnbcb\nstainless -> bcbibttbbubnbcb\ndrynessless -> bcbibttbbubnbcb\nwetnessless -> bcbibttbbubnbcb\nsweatless -> bcbibttbbubnbcb\nstainless -> bcbibttbbubnbcb\ndrynessless -> bcbib",
+    "reward": 0,
+    "logprob": -2426.69873046875
+  },
+  {
+    "question": null,
+    "prompt": "\noffices -> tfices\number -> tber\nexport -> tport\nstagnating -> stagnating\nclew -> clew\npediatrist -> pediatrist\ndecentralized -> decentralized\ninflatables -> tflatables\n\nindorse -> ?",
+    "generated_text": "?\nsolarize -> solarize\ncatalyze -> catalyze\ndissolve -> dissolve\nsimplify -> simplify\ndisassemble -> disassemble\nresemble -> resemble\ntackle -> tackle\nsimplify -> simplify\nsustain -> sustain\nsubstitute -> substitute\ntransmit -> transmit\ntransform -> transform\nunify -> unify\nundistribute -> undistribute\nunite -> unite\nunify -> unify\nunderstand -> understand\nverify -> verify\nvalidate -> validate\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork ->",
+    "final_answer": "?",
+    "correct_answer": "tdorse",
+    "rationale": "?\nsolarize -> solarize\ncatalyze -> catalyze\ndissolve -> dissolve\nsimplify -> simplify\ndisassemble -> disassemble\nresemble -> resemble\ntackle -> tackle\nsimplify -> simplify\nsustain -> sustain\nsubstitute -> substitute\ntransmit -> transmit\ntransform -> transform\nunify -> unify\nundistribute -> undistribute\nunite -> unite\nunify -> unify\nunderstand -> understand\nverify -> verify\nvalidate -> validate\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork -> work\nwork ->",
+    "reward": 0,
+    "logprob": -2805.589599609375
+  },
+  {
+    "question": null,
+    "prompt": "\nnervelessly -> cnecrveclecsscly\ntrouser -> ctroucser\ntraps -> ctracps\nbuccaneered -> cbucccacneecred\nswanks -> cswacnks\nsparring -> cspacrricng\ntabs -> ctacbs\nhomeboy -> chocmecboy\n\nhick -> ?",
+    "generated_text": "hick\ntoddler -> ?todler\ndude -> ?dude\nguy -> ?guy\ngirl -> ?girl\nfem -> ?fem\nmale -> ?male\nfemale -> ?female\ndog -> ?dog\ncat -> ?cat\nhorse -> ?horse\npig -> ?pig\ncow -> ?cow\nduck -> ?duck\ncatwoman -> ?catwomann\ndogman -> ?dogman\nbull -> ?bull\nbear -> ?bear\nrabbit -> ?rabbit\nsheep -> ?sheep\nfox -> ?fox\ndeer -> ?deer\ngoat -> ?goat\nchicken -> ?chicken\npenguin -> ?penguin\nzebra -> ?zebra\nkangaroo -> ?kangaroo\nsnake -> ?snake\ncrocodile -> ?crocodile\nelephant -> ?elephant\nlion -> ?lion\ntiger -> ?tiger\nkoala -> ?koala\n",
+    "final_answer": "hick",
+    "correct_answer": "chicck",
+    "rationale": "hick\ntoddler -> ?todler\ndude -> ?dude\nguy -> ?guy\ngirl -> ?girl\nfem -> ?fem\nmale -> ?male\nfemale -> ?female\ndog -> ?dog\ncat -> ?cat\nhorse -> ?horse\npig -> ?pig\ncow -> ?cow\nduck -> ?duck\ncatwoman -> ?catwomann\ndogman -> ?dogman\nbull -> ?bull\nbear -> ?bear\nrabbit -> ?rabbit\nsheep -> ?sheep\nfox -> ?fox\ndeer -> ?deer\ngoat -> ?goat\nchicken -> ?chicken\npenguin -> ?penguin\nzebra -> ?zebra\nkangaroo -> ?kangaroo\nsnake -> ?snake\ncrocodile -> ?crocodile\nelephant -> ?elephant\nlion -> ?lion\ntiger -> ?tiger\nkoala -> ?koala",
+    "reward": 0,
+    "logprob": -2818.937744140625
+  }
+]
