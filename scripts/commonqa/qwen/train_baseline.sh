@@ -3,7 +3,7 @@
 #SBATCH --output=logs/finetune_qwen_qa.out
 #SBATCH --error=logs/finetune_qwen_qa.err
 #SBATCH --time=12:00:00  
-#SBATCH --partition=vci_gpu_priority,gpu_batch,gpu
+#SBATCH --partition=vci_gpu_priority,gpu_batch,gpu,preemptible
 #SBATCH --gres=gpu:1
 #SBATCH --cpus-per-task=8
 #SBATCH --mem=64G 

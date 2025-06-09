@@ -1,0 +1,1200 @@
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: A revolving door is convenient for two direction travel, but it also serves as a security measure at a what?\nAnswer Choices:\n(a) bank\n(b) library\n(c) department store\n(d) mall\n(e) new york\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: A revolving door is convenient for two direction travel, but it also serves as a security measure at a what?\nAnswer Choices:\n(a) bank\n(b) library\n(c) department store\n(d) mall\n(e) new york\nA: \nThe answer is (bank).",
+  "predicted_choice": "e",
+  "correct_answer": "a",
+  "generated_text": "system\n \nuser\nQ: A revolving door is convenient for two direction travel, but it also serves as a security measure at a what?\nAnswer Choices:\n(a) bank\n(b) library\n(c) department store\n(d) mall\n(e) new york\nA: \nThe answer is (bank)."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What do people aim to do at work?\nAnswer Choices:\n(a) complete job\n(b) learn from each other\n(c) kill animals\n(d) wear hats\n(e) talk to each other\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: What do people aim to do at work?\nAnswer Choices:\n(a) complete job\n(b) learn from each other\n(c) kill animals\n(d) wear hats\n(e) talk to each other\nA: \nThe answer is (complete job). Therefore, the answer to this multiple-choice question is (a) complete job.",
+  "predicted_choice": "a",
+  "correct_answer": "a",
+  "generated_text": "system\n \nuser\nQ: What do people aim to do at work?\nAnswer Choices:\n(a) complete job\n(b) learn from each other\n(c) kill animals\n(d) wear hats\n(e) talk to each other\nA: \nThe answer is (complete job). Therefore, the answer to this multiple-choice question is (a) complete job."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Where would you find magazines along side many other printed works?\nAnswer Choices:\n(a) doctor\n(b) bookstore\n(c) market\n(d) train station\n(e) mortuary\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Where would you find magazines along side many other printed works?\nAnswer Choices:\n(a) doctor\n(b) bookstore\n(c) market\n(d) train station\n(e) mortuary\nA: \nThe answer is (bookstore). Therefore, the answer to this multiple-choice question is (b) bookstore.",
+  "predicted_choice": "b",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: Where would you find magazines along side many other printed works?\nAnswer Choices:\n(a) doctor\n(b) bookstore\n(c) market\n(d) train station\n(e) mortuary\nA: \nThe answer is (bookstore). Therefore, the answer to this multiple-choice question is (b) bookstore."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Where are  you likely to find a hamburger?\nAnswer Choices:\n(a) fast food restaurant\n(b) pizza\n(c) ground up dead cows\n(d) mouth\n(e) cow carcus\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Where are  you likely to find a hamburger?\nAnswer Choices:\n(a) fast food restaurant\n(b) pizza\n(c) ground up dead cows\n(d) mouth\n(e) cow carcus\nA: \nThe answer is (fast food restaurant). Therefore, the answer to this multiple-choice question is (a) fast food restaurant.",
+  "predicted_choice": "a",
+  "correct_answer": "a",
+  "generated_text": "system\n \nuser\nQ: Where are  you likely to find a hamburger?\nAnswer Choices:\n(a) fast food restaurant\n(b) pizza\n(c) ground up dead cows\n(d) mouth\n(e) cow carcus\nA: \nThe answer is (fast food restaurant). Therefore, the answer to this multiple-choice question is (a) fast food restaurant."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: James was looking for a good place to buy farmland.  Where might he look?\nAnswer Choices:\n(a) midwest\n(b) countryside\n(c) estate\n(d) farming areas\n(e) illinois\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: James was looking for a good place to buy farmland.  Where might he look?\nAnswer Choices:\n(a) midwest\n(b) countryside\n(c) estate\n(d) farming areas\n(e) illinois\nA: \nThe answer is (c) farming areas. Therefore, the answer to this multiple-choice question is (c) farming areas.",
+  "predicted_choice": "c",
+  "correct_answer": "a",
+  "generated_text": "system\n \nuser\nQ: James was looking for a good place to buy farmland.  Where might he look?\nAnswer Choices:\n(a) midwest\n(b) countryside\n(c) estate\n(d) farming areas\n(e) illinois\nA: \nThe answer is (c) farming areas. Therefore, the answer to this multiple-choice question is (c) farming areas."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What island country is ferret popular?\nAnswer Choices:\n(a) own home\n(b) north carolina\n(c) great britain\n(d) hutch\n(e) outdoors\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: What island country is ferret popular?\nAnswer Choices:\n(a) own home\n(b) north carolina\n(c) great britain\n(d) hutch\n(e) outdoors\nA: \nThe answer is (great britain).",
+  "predicted_choice": "e",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: What island country is ferret popular?\nAnswer Choices:\n(a) own home\n(b) north carolina\n(c) great britain\n(d) hutch\n(e) outdoors\nA: \nThe answer is (great britain)."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: In what Spanish speaking North American country can you get a great cup of coffee?\nAnswer Choices:\n(a) mildred's coffee shop\n(b) mexico\n(c) diner\n(d) kitchen\n(e) canteen\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: In what Spanish speaking North American country can you get a great cup of coffee?\nAnswer Choices:\n(a) mildred's coffee shop\n(b) mexico\n(c) diner\n(d) kitchen\n(e) canteen\nA: \nThe answer is (mexico). Therefore, the answer to this multiple-choice question is (b) Mexico.",
+  "predicted_choice": "b",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: In what Spanish speaking North American country can you get a great cup of coffee?\nAnswer Choices:\n(a) mildred's coffee shop\n(b) mexico\n(c) diner\n(d) kitchen\n(e) canteen\nA: \nThe answer is (mexico). Therefore, the answer to this multiple-choice question is (b) Mexico."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What do animals do when an enemy is approaching?\nAnswer Choices:\n(a) feel pleasure\n(b) procreate\n(c) pass water\n(d) listen to each other\n(e) sing\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: What do animals do when an enemy is approaching?\nAnswer Choices:\n(a) feel pleasure\n(b) procreate\n(c) pass water\n(d) listen to each other\n(e) sing\nA: \nThe answer is (react). Therefore, the answer to this multiple-choice question is (c) pass water.",
+  "predicted_choice": "c",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: What do animals do when an enemy is approaching?\nAnswer Choices:\n(a) feel pleasure\n(b) procreate\n(c) pass water\n(d) listen to each other\n(e) sing\nA: \nThe answer is (react). Therefore, the answer to this multiple-choice question is (c) pass water."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Reading newspaper one of many ways to practice your what?\nAnswer Choices:\n(a) literacy\n(b) knowing how to read\n(c) money\n(d) buying\n(e) money bank\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Reading newspaper one of many ways to practice your what?\nAnswer Choices:\n(a) literacy\n(b) knowing how to read\n(c) money\n(d) buying\n(e) money bank\nA: \nThe answer is (literacy). Therefore, the answer to this multiple-choice question is (a) literacy.",
+  "predicted_choice": "a",
+  "correct_answer": "a",
+  "generated_text": "system\n \nuser\nQ: Reading newspaper one of many ways to practice your what?\nAnswer Choices:\n(a) literacy\n(b) knowing how to read\n(c) money\n(d) buying\n(e) money bank\nA: \nThe answer is (literacy). Therefore, the answer to this multiple-choice question is (a) literacy."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What do people typically do while playing guitar?\nAnswer Choices:\n(a) cry\n(b) hear sounds\n(c) singing\n(d) arthritis\n(e) making music\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: What do people typically do while playing guitar?\nAnswer Choices:\n(a) cry\n(b) hear sounds\n(c) singing\n(d) arthritis\n(e) making music\nA: \nThe answer is (making music). Therefore, the answer to this multiple-choice question is (e) making music.",
+  "predicted_choice": "e",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: What do people typically do while playing guitar?\nAnswer Choices:\n(a) cry\n(b) hear sounds\n(c) singing\n(d) arthritis\n(e) making music\nA: \nThe answer is (making music). Therefore, the answer to this multiple-choice question is (e) making music."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What would vinyl be an odd thing to replace?\nAnswer Choices:\n(a) pants\n(b) record albums\n(c) record store\n(d) cheese\n(e) wallpaper\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: What would vinyl be an odd thing to replace?\nAnswer Choices:\n(a) pants\n(b) record albums\n(c) record store\n(d) cheese\n(e) wallpaper\nA: \nThe answer is (record albums). Therefore, the answer to this multiple-choice question is (b) record albums.",
+  "predicted_choice": "b",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: What would vinyl be an odd thing to replace?\nAnswer Choices:\n(a) pants\n(b) record albums\n(c) record store\n(d) cheese\n(e) wallpaper\nA: \nThe answer is (record albums). Therefore, the answer to this multiple-choice question is (b) record albums."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: If you want harmony, what is something you should try to do with the world?\nAnswer Choices:\n(a) take time\n(b) make noise\n(c) make war\n(d) make peace\n(e) make haste\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: If you want harmony, what is something you should try to do with the world?\nAnswer Choices:\n(a) take time\n(b) make noise\n(c) make war\n(d) make peace\n(e) make haste\nA: \nThe answer is (make peace).",
+  "predicted_choice": "e",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: If you want harmony, what is something you should try to do with the world?\nAnswer Choices:\n(a) take time\n(b) make noise\n(c) make war\n(d) make peace\n(e) make haste\nA: \nThe answer is (make peace)."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Where does a heifer's master live?\nAnswer Choices:\n(a) farm house\n(b) barnyard\n(c) stockyard\n(d) slaughter house\n(e) eat cake\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Where does a heifer's master live?\nAnswer Choices:\n(a) farm house\n(b) barnyard\n(c) stockyard\n(d) slaughter house\n(e) eat cake\nA: \nThe answer is (farm house). Therefore, the answer to this multiple-choice question is (a) farm house.",
+  "predicted_choice": "a",
+  "correct_answer": "a",
+  "generated_text": "system\n \nuser\nQ: Where does a heifer's master live?\nAnswer Choices:\n(a) farm house\n(b) barnyard\n(c) stockyard\n(d) slaughter house\n(e) eat cake\nA: \nThe answer is (farm house). Therefore, the answer to this multiple-choice question is (a) farm house."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Aside from water and nourishment what does your dog need?\nAnswer Choices:\n(a) bone\n(b) charm\n(c) petted\n(d) lots of attention\n(e) walked\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: Aside from water and nourishment what does your dog need?\nAnswer Choices:\n(a) bone\n(b) charm\n(c) petted\n(d) lots of attention\n(e) walked\nA: \nThe answer is (walked). Therefore, the answer to this multiple-choice question is (e) walked.",
+  "predicted_choice": "e",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: Aside from water and nourishment what does your dog need?\nAnswer Choices:\n(a) bone\n(b) charm\n(c) petted\n(d) lots of attention\n(e) walked\nA: \nThe answer is (walked). Therefore, the answer to this multiple-choice question is (e) walked."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Janet was watching the film because she liked what?\nAnswer Choices:\n(a) erection\n(b) laughter\n(c) being entertained\n(d) fear\n(e) bordem\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Janet was watching the film because she liked what?\nAnswer Choices:\n(a) erection\n(b) laughter\n(c) being entertained\n(d) fear\n(e) bordem\nA: \nThe answer is (being entertained). Therefore, the answer to this multiple-choice question is (c) being entertained.",
+  "predicted_choice": "c",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: Janet was watching the film because she liked what?\nAnswer Choices:\n(a) erection\n(b) laughter\n(c) being entertained\n(d) fear\n(e) bordem\nA: \nThe answer is (being entertained). Therefore, the answer to this multiple-choice question is (c) being entertained."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What are you waiting alongside with when you're in a reception area?\nAnswer Choices:\n(a) motel\n(b) chair\n(c) hospital\n(d) people\n(e) hotels\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: What are you waiting alongside with when you're in a reception area?\nAnswer Choices:\n(a) motel\n(b) chair\n(c) hospital\n(d) people\n(e) hotels\nA: \nThe answer is (people). Therefore, the answer to this multiple-choice question is (d) people.",
+  "predicted_choice": "d",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: What are you waiting alongside with when you're in a reception area?\nAnswer Choices:\n(a) motel\n(b) chair\n(c) hospital\n(d) people\n(e) hotels\nA: \nThe answer is (people). Therefore, the answer to this multiple-choice question is (d) people."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: When drinking booze what can you do to stay busy?\nAnswer Choices:\n(a) reach tentative agreement\n(b) stay in bed\n(c) stop bicycle\n(d) examine thing\n(e) suicide\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: When drinking booze what can you do to stay busy?\nAnswer Choices:\n(a) reach tentative agreement\n(b) stay in bed\n(c) stop bicycle\n(d) examine thing\n(e) suicide\nA: \nThe answer is (stay in bed). Therefore, the answer to this multiple-choice question is (b) stay in bed.",
+  "predicted_choice": "b",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: When drinking booze what can you do to stay busy?\nAnswer Choices:\n(a) reach tentative agreement\n(b) stay in bed\n(c) stop bicycle\n(d) examine thing\n(e) suicide\nA: \nThe answer is (stay in bed). Therefore, the answer to this multiple-choice question is (b) stay in bed."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: A fencing thrust with a sharp sword towards a person would result in what?\nAnswer Choices:\n(a) injury\n(b) small cuts\n(c) fever\n(d) competition\n(e) puncture wound\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: A fencing thrust with a sharp sword towards a person would result in what?\nAnswer Choices:\n(a) injury\n(b) small cuts\n(c) fever\n(d) competition\n(e) puncture wound\nA: \nThe answer is (puncture wound).",
+  "predicted_choice": "e",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: A fencing thrust with a sharp sword towards a person would result in what?\nAnswer Choices:\n(a) injury\n(b) small cuts\n(c) fever\n(d) competition\n(e) puncture wound\nA: \nThe answer is (puncture wound)."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Unlike a spider and his many sight seers, people only have what?\nAnswer Choices:\n(a) tongues\n(b) names\n(c) brains\n(d) feelings\n(e) two eyes\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Unlike a spider and his many sight seers, people only have what?\nAnswer Choices:\n(a) tongues\n(b) names\n(c) brains\n(d) feelings\n(e) two eyes\nA: \nThe answer is (two eyes). Therefore, the answer to this multiple-choice question is (e) two eyes.",
+  "predicted_choice": "e",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: Unlike a spider and his many sight seers, people only have what?\nAnswer Choices:\n(a) tongues\n(b) names\n(c) brains\n(d) feelings\n(e) two eyes\nA: \nThe answer is (two eyes). Therefore, the answer to this multiple-choice question is (e) two eyes."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Where do adults use glue sticks?\nAnswer Choices:\n(a) classroom\n(b) desk drawer\n(c) at school\n(d) office\n(e) kitchen drawer\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Where do adults use glue sticks?\nAnswer Choices:\n(a) classroom\n(b) desk drawer\n(c) at school\n(d) office\n(e) kitchen drawer\nA: \nThe answer is (office). Therefore, the answer to this multiple-choice question is (d) office.",
+  "predicted_choice": "d",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: Where do adults use glue sticks?\nAnswer Choices:\n(a) classroom\n(b) desk drawer\n(c) at school\n(d) office\n(e) kitchen drawer\nA: \nThe answer is (office). Therefore, the answer to this multiple-choice question is (d) office."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What could go on top of wood?\nAnswer Choices:\n(a) lumberyard\n(b) synagogue\n(c) floor\n(d) carpet\n(e) hardware store\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: What could go on top of wood?\nAnswer Choices:\n(a) lumberyard\n(b) synagogue\n(c) floor\n(d) carpet\n(e) hardware store\nA: \nThe answer is (floor). Therefore, the answer to this multiple-choice question is (floor).",
+  "predicted_choice": "e",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: What could go on top of wood?\nAnswer Choices:\n(a) lumberyard\n(b) synagogue\n(c) floor\n(d) carpet\n(e) hardware store\nA: \nThe answer is (floor). Therefore, the answer to this multiple-choice question is (floor)."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: The artist was sitting quietly pondering, then suddenly he began to paint when what struck him?\nAnswer Choices:\n(a) sadness\n(b) anxiety\n(c) inspiration\n(d) discomfort\n(e) insights\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: The artist was sitting quietly pondering, then suddenly he began to paint when what struck him?\nAnswer Choices:\n(a) sadness\n(b) anxiety\n(c) inspiration\n(d) discomfort\n(e) insights\nA: \nThe answer is (inspiration). Therefore, the answer to this multiple-choice question is (c) inspiration.",
+  "predicted_choice": "c",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: The artist was sitting quietly pondering, then suddenly he began to paint when what struck him?\nAnswer Choices:\n(a) sadness\n(b) anxiety\n(c) inspiration\n(d) discomfort\n(e) insights\nA: \nThe answer is (inspiration). Therefore, the answer to this multiple-choice question is (c) inspiration."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Though the thin film seemed fragile, for it's intended purpose it was actually nearly what?\nAnswer Choices:\n(a) indestructible\n(b) durable\n(c) undestroyable\n(d) indestructible\n(e) unbreakable\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Though the thin film seemed fragile, for it's intended purpose it was actually nearly what?\nAnswer Choices:\n(a) indestructible\n(b) durable\n(c) undestroyable\n(d) indestructible\n(e) unbreakable\nA: \nThe answer is (d) indestructible.",
+  "predicted_choice": "d",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: Though the thin film seemed fragile, for it's intended purpose it was actually nearly what?\nAnswer Choices:\n(a) indestructible\n(b) durable\n(c) undestroyable\n(d) indestructible\n(e) unbreakable\nA: \nThe answer is (d) indestructible."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Where could you find a toilet that only friends can use?\nAnswer Choices:\n(a) rest area\n(b) school\n(c) stadium\n(d) apartment\n(e) hospital\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: Where could you find a toilet that only friends can use?\nAnswer Choices:\n(a) rest area\n(b) school\n(c) stadium\n(d) apartment\n(e) hospital\nA: \nThe answer is (hospital). Therefore, the answer to this multiple-choice question is (e) hospital.",
+  "predicted_choice": "e",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: Where could you find a toilet that only friends can use?\nAnswer Choices:\n(a) rest area\n(b) school\n(c) stadium\n(d) apartment\n(e) hospital\nA: \nThe answer is (hospital). Therefore, the answer to this multiple-choice question is (e) hospital."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What is someone who isn't clever, bright, or competent called?\nAnswer Choices:\n(a) clumsy\n(b) ineffectual\n(c) dull\n(d) clumsy\n(e) stupid\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: What is someone who isn't clever, bright, or competent called?\nAnswer Choices:\n(a) clumsy\n(b) ineffectual\n(c) dull\n(d) clumsy\n(e) stupid\nA: \nThe answer is (stupid). Therefore, the answer to this multiple-choice question is (e) stupid.",
+  "predicted_choice": "e",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: What is someone who isn't clever, bright, or competent called?\nAnswer Choices:\n(a) clumsy\n(b) ineffectual\n(c) dull\n(d) clumsy\n(e) stupid\nA: \nThe answer is (stupid). Therefore, the answer to this multiple-choice question is (e) stupid."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: When wildlife reproduce we often refer to what comes out as what?\nAnswer Choices:\n(a) raise children\n(b) have children\n(c) photo copy\n(d) offspring\n(e) accidently got pregnant somehow\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: When wildlife reproduce we often refer to what comes out as what?\nAnswer Choices:\n(a) raise children\n(b) have children\n(c) photo copy\n(d) offspring\n(e) accidently got pregnant somehow\nA: \nThe answer is (offspring). Therefore, the answer to this multiple-choice question is (d) offspring.",
+  "predicted_choice": "d",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: When wildlife reproduce we often refer to what comes out as what?\nAnswer Choices:\n(a) raise children\n(b) have children\n(c) photo copy\n(d) offspring\n(e) accidently got pregnant somehow\nA: \nThe answer is (offspring). Therefore, the answer to this multiple-choice question is (d) offspring."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: The weasel was becoming a problem, it kept getting into the chicken eggs kept in the what?\nAnswer Choices:\n(a) forrest\n(b) barn\n(c) public office\n(d) out of doors\n(e) freezer\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: The weasel was becoming a problem, it kept getting into the chicken eggs kept in the what?\nAnswer Choices:\n(a) forrest\n(b) barn\n(c) public office\n(d) out of doors\n(e) freezer\nA: \nThe answer is (b) barn. Therefore, the answer to this multiple-choice question is (b) barn.",
+  "predicted_choice": "b",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: The weasel was becoming a problem, it kept getting into the chicken eggs kept in the what?\nAnswer Choices:\n(a) forrest\n(b) barn\n(c) public office\n(d) out of doors\n(e) freezer\nA: \nThe answer is (b) barn. Therefore, the answer to this multiple-choice question is (b) barn."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Blue read material outside of his comfort zone because he wanted to gain what?\nAnswer Choices:\n(a) new perspective\n(b) entertained\n(c) understanding\n(d) hunger\n(e) tired eyes\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Blue read material outside of his comfort zone because he wanted to gain what?\nAnswer Choices:\n(a) new perspective\n(b) entertained\n(c) understanding\n(d) hunger\n(e) tired eyes\nA: \nThe answer is (new perspective). Therefore, the answer to this multiple-choice question is (a) new perspective.",
+  "predicted_choice": "a",
+  "correct_answer": "a",
+  "generated_text": "system\n \nuser\nQ: Blue read material outside of his comfort zone because he wanted to gain what?\nAnswer Choices:\n(a) new perspective\n(b) entertained\n(c) understanding\n(d) hunger\n(e) tired eyes\nA: \nThe answer is (new perspective). Therefore, the answer to this multiple-choice question is (a) new perspective."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: After he got hired he hoped for success at his what?\nAnswer Choices:\n(a) vocation\n(b) new job\n(c) michigan\n(d) working hard\n(e) manual\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: After he got hired he hoped for success at his what?\nAnswer Choices:\n(a) vocation\n(b) new job\n(c) michigan\n(d) working hard\n(e) manual\nA: \nThe answer is (new job). Therefore, the answer to this multiple-choice question is (b) new job.",
+  "predicted_choice": "b",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: After he got hired he hoped for success at his what?\nAnswer Choices:\n(a) vocation\n(b) new job\n(c) michigan\n(d) working hard\n(e) manual\nA: \nThe answer is (new job). Therefore, the answer to this multiple-choice question is (b) new job."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Committing perjury is a serious what?\nAnswer Choices:\n(a) indictment\n(b) crime\n(c) violence\n(d) lie\n(e) go to jail\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Committing perjury is a serious what?\nAnswer Choices:\n(a) indictment\n(b) crime\n(c) violence\n(d) lie\n(e) go to jail\nA: \nThe answer is (crime). Therefore, the answer to this multiple-choice question is (b) crime.",
+  "predicted_choice": "b",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: Committing perjury is a serious what?\nAnswer Choices:\n(a) indictment\n(b) crime\n(c) violence\n(d) lie\n(e) go to jail\nA: \nThe answer is (crime). Therefore, the answer to this multiple-choice question is (b) crime."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: If you are prone to postpone work what will you have to do in order to finish on time?\nAnswer Choices:\n(a) eat\n(b) hasten\n(c) antedate\n(d) bring forward\n(e) advance\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: If you are prone to postpone work what will you have to do in order to finish on time?\nAnswer Choices:\n(a) eat\n(b) hasten\n(c) antedate\n(d) bring forward\n(e) advance\nA: \nThe answer is (hasten). Therefore, the answer to this multiple-choice question is (b) hasten.",
+  "predicted_choice": "b",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: If you are prone to postpone work what will you have to do in order to finish on time?\nAnswer Choices:\n(a) eat\n(b) hasten\n(c) antedate\n(d) bring forward\n(e) advance\nA: \nThe answer is (hasten). Therefore, the answer to this multiple-choice question is (b) hasten."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: James wanted to find an old underground map from the 50s.  Where might he look for one?\nAnswer Choices:\n(a) library\n(b) subway station\n(c) county engineer's office\n(d) super market\n(e) home\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: James wanted to find an old underground map from the 50s.  Where might he look for one?\nAnswer Choices:\n(a) library\n(b) subway station\n(c) county engineer's office\n(d) super market\n(e) home\nA: \nThe answer is (library). Therefore, the answer to this multiple-choice question is (a) library.",
+  "predicted_choice": "a",
+  "correct_answer": "a",
+  "generated_text": "system\n \nuser\nQ: James wanted to find an old underground map from the 50s.  Where might he look for one?\nAnswer Choices:\n(a) library\n(b) subway station\n(c) county engineer's office\n(d) super market\n(e) home\nA: \nThe answer is (library). Therefore, the answer to this multiple-choice question is (a) library."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Sean was in a rush to get home, but the light turned yellow and he was forced to do what?\nAnswer Choices:\n(a) take time\n(b) dawdle\n(c) go slowly\n(d) ocean\n(e) slow down\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Sean was in a rush to get home, but the light turned yellow and he was forced to do what?\nAnswer Choices:\n(a) take time\n(b) dawdle\n(c) go slowly\n(d) ocean\n(e) slow down\nA: \nThe answer is (slow down).",
+  "predicted_choice": "e",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: Sean was in a rush to get home, but the light turned yellow and he was forced to do what?\nAnswer Choices:\n(a) take time\n(b) dawdle\n(c) go slowly\n(d) ocean\n(e) slow down\nA: \nThe answer is (slow down)."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Where would a person be doing when having to wait their turn?\nAnswer Choices:\n(a) have patience\n(b) get in line\n(c) sing\n(d) stand in line\n(e) turn left\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Where would a person be doing when having to wait their turn?\nAnswer Choices:\n(a) have patience\n(b) get in line\n(c) sing\n(d) stand in line\n(e) turn left\nA: \nThe answer is (get in line). Therefore, the answer to this multiple-choice question is (d) stand in line.",
+  "predicted_choice": "d",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: Where would a person be doing when having to wait their turn?\nAnswer Choices:\n(a) have patience\n(b) get in line\n(c) sing\n(d) stand in line\n(e) turn left\nA: \nThe answer is (get in line). Therefore, the answer to this multiple-choice question is (d) stand in line."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: She was always helping at the senior center, it brought her what?\nAnswer Choices:\n(a) satisfaction\n(b) heart\n(c) feel better\n(d) pay\n(e) happiness\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: She was always helping at the senior center, it brought her what?\nAnswer Choices:\n(a) satisfaction\n(b) heart\n(c) feel better\n(d) pay\n(e) happiness\nA: \nThe answer is (happiness). Therefore, the answer to this multiple-choice question is (e) happiness.",
+  "predicted_choice": "e",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: She was always helping at the senior center, it brought her what?\nAnswer Choices:\n(a) satisfaction\n(b) heart\n(c) feel better\n(d) pay\n(e) happiness\nA: \nThe answer is (happiness). Therefore, the answer to this multiple-choice question is (e) happiness."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: The lock kept the steering wheel from moving, but the thief still took his chances and began to work on the what?\nAnswer Choices:\n(a) keep cloesd\n(b) train\n(c) ignition switch\n(d) drawer\n(e) firearm\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: The lock kept the steering wheel from moving, but the thief still took his chances and began to work on the what?\nAnswer Choices:\n(a) keep cloesd\n(b) train\n(c) ignition switch\n(d) drawer\n(e) firearm\nA: \nThe answer is (ignition switch). Therefore, the answer to this multiple-choice question is (c) ignition switch.",
+  "predicted_choice": "c",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: The lock kept the steering wheel from moving, but the thief still took his chances and began to work on the what?\nAnswer Choices:\n(a) keep cloesd\n(b) train\n(c) ignition switch\n(d) drawer\n(e) firearm\nA: \nThe answer is (ignition switch). Therefore, the answer to this multiple-choice question is (c) ignition switch."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Who is a police officer likely to work for?\nAnswer Choices:\n(a) beat\n(b) direct traffic\n(c) city\n(d) street\n(e) president\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Who is a police officer likely to work for?\nAnswer Choices:\n(a) beat\n(b) direct traffic\n(c) city\n(d) street\n(e) president\nA: \nThe answer is (city). Therefore, the answer to this multiple-choice question is (c) city.",
+  "predicted_choice": "c",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: Who is a police officer likely to work for?\nAnswer Choices:\n(a) beat\n(b) direct traffic\n(c) city\n(d) street\n(e) president\nA: \nThe answer is (city). Therefore, the answer to this multiple-choice question is (c) city."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: If you have leftover cake, where would you put it?\nAnswer Choices:\n(a) quandry\n(b) refrigerator\n(c) oven\n(d) night stand\n(e) bakery\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: If you have leftover cake, where would you put it?\nAnswer Choices:\n(a) quandry\n(b) refrigerator\n(c) oven\n(d) night stand\n(e) bakery\nA: \nThe answer is (refrigerator). Therefore, the answer to this multiple-choice question is (b) refrigerator.",
+  "predicted_choice": "b",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: If you have leftover cake, where would you put it?\nAnswer Choices:\n(a) quandry\n(b) refrigerator\n(c) oven\n(d) night stand\n(e) bakery\nA: \nThe answer is (refrigerator). Therefore, the answer to this multiple-choice question is (b) refrigerator."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: A human wants to submerge himself in water, what should he use?\nAnswer Choices:\n(a) whirlpool bath\n(b) coffee cup\n(c) cup\n(d) soft drink\n(e) puddle\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: A human wants to submerge himself in water, what should he use?\nAnswer Choices:\n(a) whirlpool bath\n(b) coffee cup\n(c) cup\n(d) soft drink\n(e) puddle\nA: \nThe answer is (whirlpool bath). Therefore, the answer to this multiple-choice question is (a) whirlpool bath.",
+  "predicted_choice": "a",
+  "correct_answer": "a",
+  "generated_text": "system\n \nuser\nQ: A human wants to submerge himself in water, what should he use?\nAnswer Choices:\n(a) whirlpool bath\n(b) coffee cup\n(c) cup\n(d) soft drink\n(e) puddle\nA: \nThe answer is (whirlpool bath). Therefore, the answer to this multiple-choice question is (a) whirlpool bath."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Where is a doormat likely to be in front of?\nAnswer Choices:\n(a) facade\n(b) front door\n(c) doorway\n(d) entrance porch\n(e) hallway\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: Where is a doormat likely to be in front of?\nAnswer Choices:\n(a) facade\n(b) front door\n(c) doorway\n(d) entrance porch\n(e) hallway\nA: \nThe answer is (front door). Therefore, the answer to this multiple-choice question is (d) entrance porch.",
+  "predicted_choice": "d",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: Where is a doormat likely to be in front of?\nAnswer Choices:\n(a) facade\n(b) front door\n(c) doorway\n(d) entrance porch\n(e) hallway\nA: \nThe answer is (front door). Therefore, the answer to this multiple-choice question is (d) entrance porch."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Bob the lizard lives in a warm place with lots of water.  Where does he probably live?\nAnswer Choices:\n(a) rock\n(b) tropical rainforest\n(c) jazz club\n(d) new mexico\n(e) rocky places\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Bob the lizard lives in a warm place with lots of water.  Where does he probably live?\nAnswer Choices:\n(a) rock\n(b) tropical rainforest\n(c) jazz club\n(d) new mexico\n(e) rocky places\nA: \nThe answer is (tropical rainforest). Therefore, the answer to this multiple-choice question is (b) tropical rainforest.",
+  "predicted_choice": "b",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: Bob the lizard lives in a warm place with lots of water.  Where does he probably live?\nAnswer Choices:\n(a) rock\n(b) tropical rainforest\n(c) jazz club\n(d) new mexico\n(e) rocky places\nA: \nThe answer is (tropical rainforest). Therefore, the answer to this multiple-choice question is (b) tropical rainforest."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: August needed  money because he was afraid that he'd be kicked out of his house.  What did he need money to do?\nAnswer Choices:\n(a) control people\n(b) pay bills\n(c) hurt people\n(d) buy food\n(e) get things\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: August needed  money because he was afraid that he'd be kicked out of his house.  What did he need money to do?\nAnswer Choices:\n(a) control people\n(b) pay bills\n(c) hurt people\n(d) buy food\n(e) get things\nA: \nThe answer is (pay bills). Therefore, the answer to this multiple-choice question is (b) pay bills.",
+  "predicted_choice": "b",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: August needed  money because he was afraid that he'd be kicked out of his house.  What did he need money to do?\nAnswer Choices:\n(a) control people\n(b) pay bills\n(c) hurt people\n(d) buy food\n(e) get things\nA: \nThe answer is (pay bills). Therefore, the answer to this multiple-choice question is (b) pay bills."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: He needed more information to fix it, so he consulted the what?\nAnswer Choices:\n(a) chickens\n(b) google\n(c) newspaper\n(d) online\n(e) manual\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: He needed more information to fix it, so he consulted the what?\nAnswer Choices:\n(a) chickens\n(b) google\n(c) newspaper\n(d) online\n(e) manual\nA: \nThe answer is (manual).",
+  "predicted_choice": "e",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: He needed more information to fix it, so he consulted the what?\nAnswer Choices:\n(a) chickens\n(b) google\n(c) newspaper\n(d) online\n(e) manual\nA: \nThe answer is (manual)."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Where can you put a picture frame when it's not hung vertically?\nAnswer Choices:\n(a) art show\n(b) wall\n(c) newspaper\n(d) car\n(e) table\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: Where can you put a picture frame when it's not hung vertically?\nAnswer Choices:\n(a) art show\n(b) wall\n(c) newspaper\n(d) car\n(e) table\nA: \nThe answer is (table). Therefore, the answer to this multiple-choice question is (d) table.",
+  "predicted_choice": "d",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: Where can you put a picture frame when it's not hung vertically?\nAnswer Choices:\n(a) art show\n(b) wall\n(c) newspaper\n(d) car\n(e) table\nA: \nThe answer is (table). Therefore, the answer to this multiple-choice question is (d) table."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: James knew that he shouldn't have been buying beer for minors.  He didn't even get paid for it.  Why was this bad?\nAnswer Choices:\n(a) lose money\n(b) fun\n(c) have no money\n(d) broken law\n(e) relaxation\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: James knew that he shouldn't have been buying beer for minors.  He didn't even get paid for it.  Why was this bad?\nAnswer Choices:\n(a) lose money\n(b) fun\n(c) have no money\n(d) broken law\n(e) relaxation\nA: \nThe answer is (broken law). Therefore, the answer to this multiple-choice question is (d) broken law.",
+  "predicted_choice": "d",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: James knew that he shouldn't have been buying beer for minors.  He didn't even get paid for it.  Why was this bad?\nAnswer Choices:\n(a) lose money\n(b) fun\n(c) have no money\n(d) broken law\n(e) relaxation\nA: \nThe answer is (broken law). Therefore, the answer to this multiple-choice question is (d) broken law."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What is the result of applying for  job?\nAnswer Choices:\n(a) anxiety and fear\n(b) increased workload\n(c) praise\n(d) less sleep\n(e) being employed\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: What is the result of applying for  job?\nAnswer Choices:\n(a) anxiety and fear\n(b) increased workload\n(c) praise\n(d) less sleep\n(e) being employed\nA: \nThe answer is (being employed). Therefore, the answer to this multiple-choice question is (e) being employed.",
+  "predicted_choice": "e",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: What is the result of applying for  job?\nAnswer Choices:\n(a) anxiety and fear\n(b) increased workload\n(c) praise\n(d) less sleep\n(e) being employed\nA: \nThe answer is (being employed). Therefore, the answer to this multiple-choice question is (e) being employed."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What must someone do before they shop?\nAnswer Choices:\n(a) get money\n(b) have money\n(c) bring cash\n(d) go to market\n(e) bring cash\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: What must someone do before they shop?\nAnswer Choices:\n(a) get money\n(b) have money\n(c) bring cash\n(d) go to market\n(e) bring cash\nA: \nThe answer is (have money). Therefore, the answer to this multiple-choice question is (b) have money.",
+  "predicted_choice": "b",
+  "correct_answer": "a",
+  "generated_text": "system\n \nuser\nQ: What must someone do before they shop?\nAnswer Choices:\n(a) get money\n(b) have money\n(c) bring cash\n(d) go to market\n(e) bring cash\nA: \nThe answer is (have money). Therefore, the answer to this multiple-choice question is (b) have money."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Because John was first violin, he had to bring something important to work ever day. What did he need to bring to work?\nAnswer Choices:\n(a) music store\n(b) obesity\n(c) symphony orchestra\n(d) ochestra\n(e) violin case\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Because John was first violin, he had to bring something important to work ever day. What did he need to bring to work?\nAnswer Choices:\n(a) music store\n(b) obesity\n(c) symphony orchestra\n(d) ochestra\n(e) violin case\nA: \nThe answer is (violin case). Therefore, the answer to this multiple-choice question is (e) violin case.",
+  "predicted_choice": "e",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: Because John was first violin, he had to bring something important to work ever day. What did he need to bring to work?\nAnswer Choices:\n(a) music store\n(b) obesity\n(c) symphony orchestra\n(d) ochestra\n(e) violin case\nA: \nThe answer is (violin case). Therefore, the answer to this multiple-choice question is (e) violin case."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What is a place that usually does not have an elevator and that sometimes has a telephone book?\nAnswer Choices:\n(a) at hotel\n(b) kitchen\n(c) library\n(d) telephone booth\n(e) house\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: What is a place that usually does not have an elevator and that sometimes has a telephone book?\nAnswer Choices:\n(a) at hotel\n(b) kitchen\n(c) library\n(d) telephone booth\n(e) house\nA: \nThe answer is (library). Therefore, the answer to this multiple-choice question is (c) library.",
+  "predicted_choice": "c",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: What is a place that usually does not have an elevator and that sometimes has a telephone book?\nAnswer Choices:\n(a) at hotel\n(b) kitchen\n(c) library\n(d) telephone booth\n(e) house\nA: \nThe answer is (library). Therefore, the answer to this multiple-choice question is (c) library."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Who is likely to be excited about a crab?\nAnswer Choices:\n(a) fish market\n(b) pet shop\n(c) fishmongers\n(d) intertidal zone\n(e) obesity\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: Who is likely to be excited about a crab?\nAnswer Choices:\n(a) fish market\n(b) pet shop\n(c) fishmongers\n(d) intertidal zone\n(e) obesity\nA: \nThe answer is (pet shop). Therefore, the answer to this multiple-choice question is (pet shop).",
+  "predicted_choice": "e",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: Who is likely to be excited about a crab?\nAnswer Choices:\n(a) fish market\n(b) pet shop\n(c) fishmongers\n(d) intertidal zone\n(e) obesity\nA: \nThe answer is (pet shop). Therefore, the answer to this multiple-choice question is (pet shop)."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Where can a human find clothes that aren't pants?\nAnswer Choices:\n(a) pants shop\n(b) on planet earth\n(c) dress shop\n(d) school\n(e) train wreck\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: Where can a human find clothes that aren't pants?\nAnswer Choices:\n(a) pants shop\n(b) on planet earth\n(c) dress shop\n(d) school\n(e) train wreck\nA: \nThe answer is (dress shop). Therefore, the answer to this multiple-choice question is (d) dress shop.",
+  "predicted_choice": "d",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: Where can a human find clothes that aren't pants?\nAnswer Choices:\n(a) pants shop\n(b) on planet earth\n(c) dress shop\n(d) school\n(e) train wreck\nA: \nThe answer is (dress shop). Therefore, the answer to this multiple-choice question is (d) dress shop."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: If I was getting drunk, and people couldn't understand me, what might I be having?\nAnswer Choices:\n(a) a seizure\n(b) slurred speech\n(c) death\n(d) forgetfulness\n(e) pass out\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: If I was getting drunk, and people couldn't understand me, what might I be having?\nAnswer Choices:\n(a) a seizure\n(b) slurred speech\n(c) death\n(d) forgetfulness\n(e) pass out\nA: \nThe answer is (slurred speech). Therefore, the answer to this multiple-choice question is (b) slurred speech.",
+  "predicted_choice": "b",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: If I was getting drunk, and people couldn't understand me, what might I be having?\nAnswer Choices:\n(a) a seizure\n(b) slurred speech\n(c) death\n(d) forgetfulness\n(e) pass out\nA: \nThe answer is (slurred speech). Therefore, the answer to this multiple-choice question is (b) slurred speech."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: When a person is beginning work, what are they building?\nAnswer Choices:\n(a) time\n(b) accomplishing\n(c) working\n(d) momentum\n(e) tiredness\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: When a person is beginning work, what are they building?\nAnswer Choices:\n(a) time\n(b) accomplishing\n(c) working\n(d) momentum\n(e) tiredness\nA: \nThe answer is (momentum). Therefore, the answer to this multiple-choice question is (d) momentum.",
+  "predicted_choice": "d",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: When a person is beginning work, what are they building?\nAnswer Choices:\n(a) time\n(b) accomplishing\n(c) working\n(d) momentum\n(e) tiredness\nA: \nThe answer is (momentum). Therefore, the answer to this multiple-choice question is (d) momentum."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: A child wants to play, what would they likely want?\nAnswer Choices:\n(a) fall down\n(b) breathe\n(c) play tag\n(d) be dismembered by a chainsaw\n(e) become adult\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: A child wants to play, what would they likely want?\nAnswer Choices:\n(a) fall down\n(b) breathe\n(c) play tag\n(d) be dismembered by a chainsaw\n(e) become adult\nA: \nThe answer is (play tag). Therefore, the answer to this multiple-choice question is (c) play tag.",
+  "predicted_choice": "c",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: A child wants to play, what would they likely want?\nAnswer Choices:\n(a) fall down\n(b) breathe\n(c) play tag\n(d) be dismembered by a chainsaw\n(e) become adult\nA: \nThe answer is (play tag). Therefore, the answer to this multiple-choice question is (c) play tag."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Talking to the same person about the same thing over and over again is something someone can what?\nAnswer Choices:\n(a) social life\n(b) friendship\n(c) eye contact\n(d) get tired of\n(e) learn lessons from\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Talking to the same person about the same thing over and over again is something someone can what?\nAnswer Choices:\n(a) social life\n(b) friendship\n(c) eye contact\n(d) get tired of\n(e) learn lessons from\nA: \nThe answer is (get tired of). Therefore, the answer to this multiple-choice question is (d) get tired of.",
+  "predicted_choice": "d",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: Talking to the same person about the same thing over and over again is something someone can what?\nAnswer Choices:\n(a) social life\n(b) friendship\n(c) eye contact\n(d) get tired of\n(e) learn lessons from\nA: \nThe answer is (get tired of). Therefore, the answer to this multiple-choice question is (d) get tired of."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: The teacher doesn't tolerate noise during a test in their what?\nAnswer Choices:\n(a) movie theatre\n(b) bowling alley\n(c) factory\n(d) store\n(e) classroom\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: The teacher doesn't tolerate noise during a test in their what?\nAnswer Choices:\n(a) movie theatre\n(b) bowling alley\n(c) factory\n(d) store\n(e) classroom\nA: \nThe answer is (classroom).",
+  "predicted_choice": "e",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: The teacher doesn't tolerate noise during a test in their what?\nAnswer Choices:\n(a) movie theatre\n(b) bowling alley\n(c) factory\n(d) store\n(e) classroom\nA: \nThe answer is (classroom)."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: The freeway had no traffic and few buildings, where is it?\nAnswer Choices:\n(a) california\n(b) countryside\n(c) big town\n(d) florida\n(e) america\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: The freeway had no traffic and few buildings, where is it?\nAnswer Choices:\n(a) california\n(b) countryside\n(c) big town\n(d) florida\n(e) america\nA: \nThe answer is (countryside). Therefore, the answer to this multiple-choice question is (c) countryside.",
+  "predicted_choice": "c",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: The freeway had no traffic and few buildings, where is it?\nAnswer Choices:\n(a) california\n(b) countryside\n(c) big town\n(d) florida\n(e) america\nA: \nThe answer is (countryside). Therefore, the answer to this multiple-choice question is (c) countryside."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Where would you go if you wanted to have fun with a few people?\nAnswer Choices:\n(a) watching television\n(b) good\n(c) cinema\n(d) friend's house\n(e) fairgrounds\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Where would you go if you wanted to have fun with a few people?\nAnswer Choices:\n(a) watching television\n(b) good\n(c) cinema\n(d) friend's house\n(e) fairgrounds\nA: \nThe answer is (friend's house). Therefore, the answer to this multiple-choice question is (d) friend's house.",
+  "predicted_choice": "d",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: Where would you go if you wanted to have fun with a few people?\nAnswer Choices:\n(a) watching television\n(b) good\n(c) cinema\n(d) friend's house\n(e) fairgrounds\nA: \nThe answer is (friend's house). Therefore, the answer to this multiple-choice question is (d) friend's house."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: If there is a place that is hot and arid, what could it be?\nAnswer Choices:\n(a) bland\n(b) lifeless\n(c) sandy\n(d) neutral\n(e) freezing\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: If there is a place that is hot and arid, what could it be?\nAnswer Choices:\n(a) bland\n(b) lifeless\n(c) sandy\n(d) neutral\n(e) freezing\nA: \nThe answer is (sandy). Therefore, the answer to this multiple-choice question is (c) sandy.",
+  "predicted_choice": "c",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: If there is a place that is hot and arid, what could it be?\nAnswer Choices:\n(a) bland\n(b) lifeless\n(c) sandy\n(d) neutral\n(e) freezing\nA: \nThe answer is (sandy). Therefore, the answer to this multiple-choice question is (c) sandy."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What is likely to satisfy someone's curiosity?\nAnswer Choices:\n(a) hear news\n(b) read book\n(c) see favorite show\n(d) comedy show\n(e) go somewhere\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: What is likely to satisfy someone's curiosity?\nAnswer Choices:\n(a) hear news\n(b) read book\n(c) see favorite show\n(d) comedy show\n(e) go somewhere\nA: \nThe answer is (read book). Therefore, the answer to this multiple-choice question is (d) read book.",
+  "predicted_choice": "d",
+  "correct_answer": "a",
+  "generated_text": "system\n \nuser\nQ: What is likely to satisfy someone's curiosity?\nAnswer Choices:\n(a) hear news\n(b) read book\n(c) see favorite show\n(d) comedy show\n(e) go somewhere\nA: \nThe answer is (read book). Therefore, the answer to this multiple-choice question is (d) read book."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: If you are in a bar in a glove shaped state where are you?\nAnswer Choices:\n(a) in my pocket\n(b) michigan\n(c) new york city\n(d) restaurant\n(e) public house\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: If you are in a bar in a glove shaped state where are you?\nAnswer Choices:\n(a) in my pocket\n(b) michigan\n(c) new york city\n(d) restaurant\n(e) public house\nA: \nThe answer is (michigan). Therefore, the answer to this multiple-choice question is (d) Michigan.",
+  "predicted_choice": "d",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: If you are in a bar in a glove shaped state where are you?\nAnswer Choices:\n(a) in my pocket\n(b) michigan\n(c) new york city\n(d) restaurant\n(e) public house\nA: \nThe answer is (michigan). Therefore, the answer to this multiple-choice question is (d) Michigan."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Where would a computer user be using their own computer?\nAnswer Choices:\n(a) hell\n(b) school\n(c) indoors\n(d) internet cafe\n(e) house\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Where would a computer user be using their own computer?\nAnswer Choices:\n(a) hell\n(b) school\n(c) indoors\n(d) internet cafe\n(e) house\nA: \nThe answer is (house). Therefore, the answer to this multiple-choice question is (e) house.",
+  "predicted_choice": "e",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: Where would a computer user be using their own computer?\nAnswer Choices:\n(a) hell\n(b) school\n(c) indoors\n(d) internet cafe\n(e) house\nA: \nThe answer is (house). Therefore, the answer to this multiple-choice question is (e) house."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Crabs live in what sort of environment?\nAnswer Choices:\n(a) maritime\n(b) bodies of water\n(c) saltwater\n(d) galapagos\n(e) fish market\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: Crabs live in what sort of environment?\nAnswer Choices:\n(a) maritime\n(b) bodies of water\n(c) saltwater\n(d) galapagos\n(e) fish market\nA: \nThe answer is (b) bodies of water. Therefore, the answer to this multiple-choice question is (b) bodies of water.",
+  "predicted_choice": "b",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: Crabs live in what sort of environment?\nAnswer Choices:\n(a) maritime\n(b) bodies of water\n(c) saltwater\n(d) galapagos\n(e) fish market\nA: \nThe answer is (b) bodies of water. Therefore, the answer to this multiple-choice question is (b) bodies of water."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Where can you find a snake in tall grass?\nAnswer Choices:\n(a) tree\n(b) in a jar\n(c) pet shops\n(d) feild\n(e) tropical forest\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: Where can you find a snake in tall grass?\nAnswer Choices:\n(a) tree\n(b) in a jar\n(c) pet shops\n(d) feild\n(e) tropical forest\nA: \nThe answer is (tropical forest). Therefore, the answer to this multiple-choice question is (e) tropical forest.",
+  "predicted_choice": "e",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: Where can you find a snake in tall grass?\nAnswer Choices:\n(a) tree\n(b) in a jar\n(c) pet shops\n(d) feild\n(e) tropical forest\nA: \nThe answer is (tropical forest). Therefore, the answer to this multiple-choice question is (e) tropical forest."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What is a place that has a bench nestled in trees?\nAnswer Choices:\n(a) state park\n(b) bus stop\n(c) bus depot\n(d) statue\n(e) train station\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: What is a place that has a bench nestled in trees?\nAnswer Choices:\n(a) state park\n(b) bus stop\n(c) bus depot\n(d) statue\n(e) train station\nA: \nThe answer is (park). Therefore, the answer to this multiple-choice question is (a) state park.",
+  "predicted_choice": "a",
+  "correct_answer": "a",
+  "generated_text": "system\n \nuser\nQ: What is a place that has a bench nestled in trees?\nAnswer Choices:\n(a) state park\n(b) bus stop\n(c) bus depot\n(d) statue\n(e) train station\nA: \nThe answer is (park). Therefore, the answer to this multiple-choice question is (a) state park."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Where is a human likely to go as a result of being hungry?\nAnswer Choices:\n(a) eat in restaurant\n(b) make bread\n(c) have lunch\n(d) cook dinner\n(e) friends house\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: Where is a human likely to go as a result of being hungry?\nAnswer Choices:\n(a) eat in restaurant\n(b) make bread\n(c) have lunch\n(d) cook dinner\n(e) friends house\nA: \nThe answer is (eat in restaurant).",
+  "predicted_choice": "e",
+  "correct_answer": "a",
+  "generated_text": "system\n \nuser\nQ: Where is a human likely to go as a result of being hungry?\nAnswer Choices:\n(a) eat in restaurant\n(b) make bread\n(c) have lunch\n(d) cook dinner\n(e) friends house\nA: \nThe answer is (eat in restaurant)."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: He was beginning to regret taking the fight when he saw how what his opponent was?\nAnswer Choices:\n(a) fun\n(b) joy\n(c) satisfaction\n(d) confident\n(e) pride\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: He was beginning to regret taking the fight when he saw how what his opponent was?\nAnswer Choices:\n(a) fun\n(b) joy\n(c) satisfaction\n(d) confident\n(e) pride\nA: \nThe answer is (confident). Therefore, the answer to this multiple-choice question is (d) confident.",
+  "predicted_choice": "d",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: He was beginning to regret taking the fight when he saw how what his opponent was?\nAnswer Choices:\n(a) fun\n(b) joy\n(c) satisfaction\n(d) confident\n(e) pride\nA: \nThe answer is (confident). Therefore, the answer to this multiple-choice question is (d) confident."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Where would you find a single shower curtain being used?\nAnswer Choices:\n(a) bathtub\n(b) washing area\n(c) hotel\n(d) shower stall\n(e) department store\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: Where would you find a single shower curtain being used?\nAnswer Choices:\n(a) bathtub\n(b) washing area\n(c) hotel\n(d) shower stall\n(e) department store\nA: \nThe answer is (shower stall). Therefore, the answer to this multiple-choice question is (d) shower stall.",
+  "predicted_choice": "d",
+  "correct_answer": "a",
+  "generated_text": "system\n \nuser\nQ: Where would you find a single shower curtain being used?\nAnswer Choices:\n(a) bathtub\n(b) washing area\n(c) hotel\n(d) shower stall\n(e) department store\nA: \nThe answer is (shower stall). Therefore, the answer to this multiple-choice question is (d) shower stall."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Where is a good idea but not required to have a fire extinguisher?\nAnswer Choices:\n(a) school bus\n(b) boat\n(c) house\n(d) hospital\n(e) school\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: Where is a good idea but not required to have a fire extinguisher?\nAnswer Choices:\n(a) school bus\n(b) boat\n(c) house\n(d) hospital\n(e) school\nA: \nThe answer is (boat). Therefore, the answer to this multiple-choice question is (boat).",
+  "predicted_choice": "e",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: Where is a good idea but not required to have a fire extinguisher?\nAnswer Choices:\n(a) school bus\n(b) boat\n(c) house\n(d) hospital\n(e) school\nA: \nThe answer is (boat). Therefore, the answer to this multiple-choice question is (boat)."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What continent has the most castles?\nAnswer Choices:\n(a) fairy tale\n(b) edinburgh\n(c) germany\n(d) europe\n(e) antarctica\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: What continent has the most castles?\nAnswer Choices:\n(a) fairy tale\n(b) edinburgh\n(c) germany\n(d) europe\n(e) antarctica\nA: \nThe answer is (e) antarctica. Therefore, the answer to this multiple-choice question is (e) Antarctica.",
+  "predicted_choice": "e",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: What continent has the most castles?\nAnswer Choices:\n(a) fairy tale\n(b) edinburgh\n(c) germany\n(d) europe\n(e) antarctica\nA: \nThe answer is (e) antarctica. Therefore, the answer to this multiple-choice question is (e) Antarctica."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: If you have to read a book that is very dry and long you may become what?\nAnswer Choices:\n(a) have time\n(b) boring\n(c) learn new\n(d) enjoyable\n(e) bored\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: If you have to read a book that is very dry and long you may become what?\nAnswer Choices:\n(a) have time\n(b) boring\n(c) learn new\n(d) enjoyable\n(e) bored\nA: \nThe answer is (b) boring. Therefore, the answer to this multiple-choice question is (b) boring.",
+  "predicted_choice": "b",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: If you have to read a book that is very dry and long you may become what?\nAnswer Choices:\n(a) have time\n(b) boring\n(c) learn new\n(d) enjoyable\n(e) bored\nA: \nThe answer is (b) boring. Therefore, the answer to this multiple-choice question is (b) boring."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Sally used a clipboard to hold her papers while she read off names at the beginning of the day.  Where might she work?\nAnswer Choices:\n(a) desk\n(b) windows 95\n(c) office supply store\n(d) see work\n(e) school\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: Sally used a clipboard to hold her papers while she read off names at the beginning of the day.  Where might she work?\nAnswer Choices:\n(a) desk\n(b) windows 95\n(c) office supply store\n(d) see work\n(e) school\nA: \nThe answer is (office). Therefore, the answer to this multiple-choice question is (c) office.",
+  "predicted_choice": "c",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: Sally used a clipboard to hold her papers while she read off names at the beginning of the day.  Where might she work?\nAnswer Choices:\n(a) desk\n(b) windows 95\n(c) office supply store\n(d) see work\n(e) school\nA: \nThe answer is (office). Therefore, the answer to this multiple-choice question is (c) office."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: The kids didn't clean up after they had done what?\nAnswer Choices:\n(a) learn things\n(b) play games\n(c) disneyland\n(d) play with toys\n(e) talking\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: The kids didn't clean up after they had done what?\nAnswer Choices:\n(a) learn things\n(b) play games\n(c) disneyland\n(d) play with toys\n(e) talking\nA: \nThe answer is (play with toys). Therefore, the answer to this multiple-choice question is (d) play with toys.",
+  "predicted_choice": "d",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: The kids didn't clean up after they had done what?\nAnswer Choices:\n(a) learn things\n(b) play games\n(c) disneyland\n(d) play with toys\n(e) talking\nA: \nThe answer is (play with toys). Therefore, the answer to this multiple-choice question is (d) play with toys."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Despite the name a pawn can be quite versatile, all the parts are important in a what?\nAnswer Choices:\n(a) chess game\n(b) scheme\n(c) chess set\n(d) checkers\n(e) north carolina\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: Despite the name a pawn can be quite versatile, all the parts are important in a what?\nAnswer Choices:\n(a) chess game\n(b) scheme\n(c) chess set\n(d) checkers\n(e) north carolina\nA: \nThe answer is (chess game).",
+  "predicted_choice": "e",
+  "correct_answer": "a",
+  "generated_text": "system\n \nuser\nQ: Despite the name a pawn can be quite versatile, all the parts are important in a what?\nAnswer Choices:\n(a) chess game\n(b) scheme\n(c) chess set\n(d) checkers\n(e) north carolina\nA: \nThe answer is (chess game)."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What would not be true about a basketball if it had a hole in it but it did not lose its general shape?\nAnswer Choices:\n(a) punctured\n(b) popular in america\n(c) full of air\n(d) gone\n(e) round\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: What would not be true about a basketball if it had a hole in it but it did not lose its general shape?\nAnswer Choices:\n(a) punctured\n(b) popular in america\n(c) full of air\n(d) gone\n(e) round\nA: \nThe answer is (round). Therefore, the answer to this multiple-choice question is (e) round.",
+  "predicted_choice": "e",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: What would not be true about a basketball if it had a hole in it but it did not lose its general shape?\nAnswer Choices:\n(a) punctured\n(b) popular in america\n(c) full of air\n(d) gone\n(e) round\nA: \nThe answer is (round). Therefore, the answer to this multiple-choice question is (e) round."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: If you are awaking multiple times throughout the night because a lot is on your mind, what is a likely cause?\nAnswer Choices:\n(a) irritability\n(b) depression\n(c) getting out of bed\n(d) happiness\n(e) discomfort\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: If you are awaking multiple times throughout the night because a lot is on your mind, what is a likely cause?\nAnswer Choices:\n(a) irritability\n(b) depression\n(c) getting out of bed\n(d) happiness\n(e) discomfort\nA: \nThe answer is (discomfort). Therefore, the answer to this multiple-choice question is (e) discomfort.",
+  "predicted_choice": "e",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: If you are awaking multiple times throughout the night because a lot is on your mind, what is a likely cause?\nAnswer Choices:\n(a) irritability\n(b) depression\n(c) getting out of bed\n(d) happiness\n(e) discomfort\nA: \nThe answer is (discomfort). Therefore, the answer to this multiple-choice question is (e) discomfort."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Where does a wild bird usually live?\nAnswer Choices:\n(a) cage\n(b) sky\n(c) countryside\n(d) desert\n(e) windowsill\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: Where does a wild bird usually live?\nAnswer Choices:\n(a) cage\n(b) sky\n(c) countryside\n(d) desert\n(e) windowsill\nA: \nThe answer is (countryside). Therefore, the answer to this multiple-choice question is (countryside).",
+  "predicted_choice": "e",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: Where does a wild bird usually live?\nAnswer Choices:\n(a) cage\n(b) sky\n(c) countryside\n(d) desert\n(e) windowsill\nA: \nThe answer is (countryside). Therefore, the answer to this multiple-choice question is (countryside)."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Where would you expect to find white mice?\nAnswer Choices:\n(a) bell cat\n(b) bush\n(c) attic\n(d) countryside\n(e) laboratory\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Where would you expect to find white mice?\nAnswer Choices:\n(a) bell cat\n(b) bush\n(c) attic\n(d) countryside\n(e) laboratory\nA: \nThe answer is (laboratory). Therefore, the answer to this multiple-choice question is (e) laboratory.",
+  "predicted_choice": "e",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: Where would you expect to find white mice?\nAnswer Choices:\n(a) bell cat\n(b) bush\n(c) attic\n(d) countryside\n(e) laboratory\nA: \nThe answer is (laboratory). Therefore, the answer to this multiple-choice question is (e) laboratory."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: John felt that his actions were fate.   Harry said that he could have always made a different what?\nAnswer Choices:\n(a) free will\n(b) choice\n(c) will\n(d) alcohol\n(e) freedom\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: John felt that his actions were fate.   Harry said that he could have always made a different what?\nAnswer Choices:\n(a) free will\n(b) choice\n(c) will\n(d) alcohol\n(e) freedom\nA: \nThe answer is (choice). Therefore, the answer to this multiple-choice question is (b) choice.",
+  "predicted_choice": "b",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: John felt that his actions were fate.   Harry said that he could have always made a different what?\nAnswer Choices:\n(a) free will\n(b) choice\n(c) will\n(d) alcohol\n(e) freedom\nA: \nThe answer is (choice). Therefore, the answer to this multiple-choice question is (b) choice."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What could committing murder prevent someone from doing?\nAnswer Choices:\n(a) go to jail\n(b) cry\n(c) find god\n(d) guilty conscience\n(e) problems\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: What could committing murder prevent someone from doing?\nAnswer Choices:\n(a) go to jail\n(b) cry\n(c) find god\n(d) guilty conscience\n(e) problems\nA: \nThe answer is (problems). Therefore, the answer to this multiple-choice question is (e) problems.",
+  "predicted_choice": "e",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: What could committing murder prevent someone from doing?\nAnswer Choices:\n(a) go to jail\n(b) cry\n(c) find god\n(d) guilty conscience\n(e) problems\nA: \nThe answer is (problems). Therefore, the answer to this multiple-choice question is (e) problems."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: George didn't have a car, but he still had his two feet.   His socks were smelly and his soles were blistered, but that didn't matter.  He could still do what?\nAnswer Choices:\n(a) michigan\n(b) walk\n(c) stay still\n(d) stink\n(e) hands\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: George didn't have a car, but he still had his two feet.   His socks were smelly and his soles were blistered, but that didn't matter.  He could still do what?\nAnswer Choices:\n(a) michigan\n(b) walk\n(c) stay still\n(d) stink\n(e) hands\nA: \nThe answer is (walk). Therefore, the answer to this multiple-choice question is (b) walk.",
+  "predicted_choice": "b",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: George didn't have a car, but he still had his two feet.   His socks were smelly and his soles were blistered, but that didn't matter.  He could still do what?\nAnswer Choices:\n(a) michigan\n(b) walk\n(c) stay still\n(d) stink\n(e) hands\nA: \nThe answer is (walk). Therefore, the answer to this multiple-choice question is (b) walk."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: A crane uses many a steel cable when working a what?\nAnswer Choices:\n(a) abaft\n(b) ship\n(c) winch\n(d) construction site\n(e) building\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: A crane uses many a steel cable when working a what?\nAnswer Choices:\n(a) abaft\n(b) ship\n(c) winch\n(d) construction site\n(e) building\nA: \nThe answer is (ship). Therefore, the answer to this multiple-choice question is (b) ship.",
+  "predicted_choice": "b",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: A crane uses many a steel cable when working a what?\nAnswer Choices:\n(a) abaft\n(b) ship\n(c) winch\n(d) construction site\n(e) building\nA: \nThe answer is (ship). Therefore, the answer to this multiple-choice question is (b) ship."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What is the main purpose of farmers?\nAnswer Choices:\n(a) raise cattle\n(b) grow corn\n(c) farm land\n(d) drive tractors\n(e) supply food\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: What is the main purpose of farmers?\nAnswer Choices:\n(a) raise cattle\n(b) grow corn\n(c) farm land\n(d) drive tractors\n(e) supply food\nA: \nThe main purpose of farmers is to supply food. Therefore, the answer to this multiple-choice question is (e) supply food.",
+  "predicted_choice": "e",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: What is the main purpose of farmers?\nAnswer Choices:\n(a) raise cattle\n(b) grow corn\n(c) farm land\n(d) drive tractors\n(e) supply food\nA: \nThe main purpose of farmers is to supply food. Therefore, the answer to this multiple-choice question is (e) supply food."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Where can I put this penny to save for later?\nAnswer Choices:\n(a) piggy bank\n(b) wallet\n(c) toy\n(d) ground\n(e) pocket\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: Where can I put this penny to save for later?\nAnswer Choices:\n(a) piggy bank\n(b) wallet\n(c) toy\n(d) ground\n(e) pocket\nA: \nThe answer is (pocket). Therefore, the answer to this multiple-choice question is (e) pocket.",
+  "predicted_choice": "e",
+  "correct_answer": "a",
+  "generated_text": "system\n \nuser\nQ: Where can I put this penny to save for later?\nAnswer Choices:\n(a) piggy bank\n(b) wallet\n(c) toy\n(d) ground\n(e) pocket\nA: \nThe answer is (pocket). Therefore, the answer to this multiple-choice question is (e) pocket."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Where would you put uncooked crab meat?\nAnswer Choices:\n(a) wharf\n(b) red lobster\n(c) tidepools\n(d) boss's office\n(e) stew pot\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Where would you put uncooked crab meat?\nAnswer Choices:\n(a) wharf\n(b) red lobster\n(c) tidepools\n(d) boss's office\n(e) stew pot\nA: \nThe answer is (stew pot). Therefore, the answer to this multiple-choice question is (e) stew pot.",
+  "predicted_choice": "e",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: Where would you put uncooked crab meat?\nAnswer Choices:\n(a) wharf\n(b) red lobster\n(c) tidepools\n(d) boss's office\n(e) stew pot\nA: \nThe answer is (stew pot). Therefore, the answer to this multiple-choice question is (e) stew pot."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: The man had a fear of illness, so he never visited friends who were a what?\nAnswer Choices:\n(a) sick person\n(b) hospital\n(c) elderly person\n(d) graveyard\n(e) doctor's office\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: The man had a fear of illness, so he never visited friends who were a what?\nAnswer Choices:\n(a) sick person\n(b) hospital\n(c) elderly person\n(d) graveyard\n(e) doctor's office\nA: \nThe answer is (hospital). Therefore, the answer to this multiple-choice question is (e) doctor's office.",
+  "predicted_choice": "e",
+  "correct_answer": "a",
+  "generated_text": "system\n \nuser\nQ: The man had a fear of illness, so he never visited friends who were a what?\nAnswer Choices:\n(a) sick person\n(b) hospital\n(c) elderly person\n(d) graveyard\n(e) doctor's office\nA: \nThe answer is (hospital). Therefore, the answer to this multiple-choice question is (e) doctor's office."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Where would you put pans if you want to bring them with you?\nAnswer Choices:\n(a) cooking\n(b) cook food\n(c) kitchen\n(d) backpack\n(e) drawer\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Where would you put pans if you want to bring them with you?\nAnswer Choices:\n(a) cooking\n(b) cook food\n(c) kitchen\n(d) backpack\n(e) drawer\nA: \nThe answer is (backpack). Therefore, the answer to this multiple-choice question is (d) backpack.",
+  "predicted_choice": "d",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: Where would you put pans if you want to bring them with you?\nAnswer Choices:\n(a) cooking\n(b) cook food\n(c) kitchen\n(d) backpack\n(e) drawer\nA: \nThe answer is (backpack). Therefore, the answer to this multiple-choice question is (d) backpack."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: If you're remembering something, it's because of your what of it to begin with?\nAnswer Choices:\n(a) knowledge\n(b) knowing\n(c) forgetful\n(d) pleasure\n(e) depression\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: If you're remembering something, it's because of your what of it to begin with?\nAnswer Choices:\n(a) knowledge\n(b) knowing\n(c) forgetful\n(d) pleasure\n(e) depression\nA: \nThe answer is (knowledge). Therefore, the answer to this multiple-choice question is (a) knowledge.",
+  "predicted_choice": "a",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: If you're remembering something, it's because of your what of it to begin with?\nAnswer Choices:\n(a) knowledge\n(b) knowing\n(c) forgetful\n(d) pleasure\n(e) depression\nA: \nThe answer is (knowledge). Therefore, the answer to this multiple-choice question is (a) knowledge."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Which large land mass is home to the most monkeys?\nAnswer Choices:\n(a) amazon basin\n(b) friend's house\n(c) lift number 3\n(d) research laboratory\n(e) african continent\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: Which large land mass is home to the most monkeys?\nAnswer Choices:\n(a) amazon basin\n(b) friend's house\n(c) lift number 3\n(d) research laboratory\n(e) african continent\nA: \nThe answer is (a) amazon basin. Therefore, the answer to this multiple-choice question is (a) amazon basin.",
+  "predicted_choice": "a",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: Which large land mass is home to the most monkeys?\nAnswer Choices:\n(a) amazon basin\n(b) friend's house\n(c) lift number 3\n(d) research laboratory\n(e) african continent\nA: \nThe answer is (a) amazon basin. Therefore, the answer to this multiple-choice question is (a) amazon basin."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Friday was James's 5th Anniversary.  They planned on going to bed early so that they could spend a long time doing what?\nAnswer Choices:\n(a) rest\n(b) insomnia\n(c) making love\n(d) sleeping in\n(e) texting\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Friday was James's 5th Anniversary.  They planned on going to bed early so that they could spend a long time doing what?\nAnswer Choices:\n(a) rest\n(b) insomnia\n(c) making love\n(d) sleeping in\n(e) texting\nA: \nThe answer is (making love). Therefore, the answer to this multiple-choice question is (c) making love.",
+  "predicted_choice": "c",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: Friday was James's 5th Anniversary.  They planned on going to bed early so that they could spend a long time doing what?\nAnswer Choices:\n(a) rest\n(b) insomnia\n(c) making love\n(d) sleeping in\n(e) texting\nA: \nThe answer is (making love). Therefore, the answer to this multiple-choice question is (c) making love."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: The teens were trying to hide that they get drink, but when they walked in the door their what gave it away?\nAnswer Choices:\n(a) health\n(b) fall down\n(c) stagger\n(d) get arrested\n(e) vomit\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: The teens were trying to hide that they get drink, but when they walked in the door their what gave it away?\nAnswer Choices:\n(a) health\n(b) fall down\n(c) stagger\n(d) get arrested\n(e) vomit\nA: \nThe answer is (stagger). Therefore, the answer to this multiple-choice question is (c) stagger.",
+  "predicted_choice": "c",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: The teens were trying to hide that they get drink, but when they walked in the door their what gave it away?\nAnswer Choices:\n(a) health\n(b) fall down\n(c) stagger\n(d) get arrested\n(e) vomit\nA: \nThe answer is (stagger). Therefore, the answer to this multiple-choice question is (c) stagger."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: You'll find a landing at the top of what?\nAnswer Choices:\n(a) ocean\n(b) apartment building\n(c) stairwell\n(d) airport\n(e) room\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: You'll find a landing at the top of what?\nAnswer Choices:\n(a) ocean\n(b) apartment building\n(c) stairwell\n(d) airport\n(e) room\nA: \nThe answer is (airport). Therefore, the answer to this multiple-choice question is (d) airport.",
+  "predicted_choice": "d",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: You'll find a landing at the top of what?\nAnswer Choices:\n(a) ocean\n(b) apartment building\n(c) stairwell\n(d) airport\n(e) room\nA: \nThe answer is (airport). Therefore, the answer to this multiple-choice question is (d) airport."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Anybody could be hired in the kitchen, what was needed of them?\nAnswer Choices:\n(a) forget\n(b) oil squeaky hinge\n(c) question authority\n(d) wash dishes\n(e) oik squeaky hinge\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Anybody could be hired in the kitchen, what was needed of them?\nAnswer Choices:\n(a) forget\n(b) oil squeaky hinge\n(c) question authority\n(d) wash dishes\n(e) oik squeaky hinge\nA: \nThe answer is (wash dishes). Therefore, the answer to this multiple-choice question is (d) wash dishes.",
+  "predicted_choice": "d",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: Anybody could be hired in the kitchen, what was needed of them?\nAnswer Choices:\n(a) forget\n(b) oil squeaky hinge\n(c) question authority\n(d) wash dishes\n(e) oik squeaky hinge\nA: \nThe answer is (wash dishes). Therefore, the answer to this multiple-choice question is (d) wash dishes."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Where can you find a number of wind instruments together in public?\nAnswer Choices:\n(a) music store\n(b) create music\n(c) zoo\n(d) music room\n(e) symphony\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Where can you find a number of wind instruments together in public?\nAnswer Choices:\n(a) music store\n(b) create music\n(c) zoo\n(d) music room\n(e) symphony\nA: \nThe answer is (symphony). Therefore, the answer to this multiple-choice question is (e) symphony.",
+  "predicted_choice": "e",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: Where can you find a number of wind instruments together in public?\nAnswer Choices:\n(a) music store\n(b) create music\n(c) zoo\n(d) music room\n(e) symphony\nA: \nThe answer is (symphony). Therefore, the answer to this multiple-choice question is (e) symphony."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: A mountie got off at a subway stop.  What city might he be in?\nAnswer Choices:\n(a) urban area\n(b) metropolis\n(c) chicago\n(d) new york city\n(e) toronto\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: A mountie got off at a subway stop.  What city might he be in?\nAnswer Choices:\n(a) urban area\n(b) metropolis\n(c) chicago\n(d) new york city\n(e) toronto\nA: \nThe answer is (toronto). Therefore, the answer to this multiple-choice question is (e) toronto.",
+  "predicted_choice": "e",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: A mountie got off at a subway stop.  What city might he be in?\nAnswer Choices:\n(a) urban area\n(b) metropolis\n(c) chicago\n(d) new york city\n(e) toronto\nA: \nThe answer is (toronto). Therefore, the answer to this multiple-choice question is (e) toronto."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What do you want someone to do when you illustrate point?\nAnswer Choices:\n(a) did not understand\n(b) accepting\n(c) make clear\n(d) understood\n(e) understanding\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: What do you want someone to do when you illustrate point?\nAnswer Choices:\n(a) did not understand\n(b) accepting\n(c) make clear\n(d) understood\n(e) understanding\nA: \nThe answer is (make clear). Therefore, the answer to this multiple-choice question is (c) make clear.",
+  "predicted_choice": "c",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: What do you want someone to do when you illustrate point?\nAnswer Choices:\n(a) did not understand\n(b) accepting\n(c) make clear\n(d) understood\n(e) understanding\nA: \nThe answer is (make clear). Therefore, the answer to this multiple-choice question is (c) make clear."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Billy set aside a block of time for having fun after work. Why might he do this?\nAnswer Choices:\n(a) happiness\n(b) stress relief\n(c) pleasure\n(d) ocean\n(e) may laugh\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Billy set aside a block of time for having fun after work. Why might he do this?\nAnswer Choices:\n(a) happiness\n(b) stress relief\n(c) pleasure\n(d) ocean\n(e) may laugh\nA: \nThe answer is (stress relief). Therefore, the answer to this multiple-choice question is (b) stress relief.",
+  "predicted_choice": "b",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: Billy set aside a block of time for having fun after work. Why might he do this?\nAnswer Choices:\n(a) happiness\n(b) stress relief\n(c) pleasure\n(d) ocean\n(e) may laugh\nA: \nThe answer is (stress relief). Therefore, the answer to this multiple-choice question is (b) stress relief."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: The man in the white suit was very lazy.  He did nothing useful.  Meanwhile, the ban in the blue had put in effort and was very what?\nAnswer Choices:\n(a) restless\n(b) active\n(c) lazybutt\n(d) productive\n(e) hard work\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: The man in the white suit was very lazy.  He did nothing useful.  Meanwhile, the ban in the blue had put in effort and was very what?\nAnswer Choices:\n(a) restless\n(b) active\n(c) lazybutt\n(d) productive\n(e) hard work\nA: \nThe answer is (productive).",
+  "predicted_choice": "e",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: The man in the white suit was very lazy.  He did nothing useful.  Meanwhile, the ban in the blue had put in effort and was very what?\nAnswer Choices:\n(a) restless\n(b) active\n(c) lazybutt\n(d) productive\n(e) hard work\nA: \nThe answer is (productive)."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What would you be unable to do if you have too much greed?\nAnswer Choices:\n(a) keep things\n(b) make friends\n(c) play poker\n(d) conquer opponent\n(e) lie\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: What would you be unable to do if you have too much greed?\nAnswer Choices:\n(a) keep things\n(b) make friends\n(c) play poker\n(d) conquer opponent\n(e) lie\nA: \nThe answer is (conquer opponent). Therefore, the answer to this multiple-choice question is (e) lie.",
+  "predicted_choice": "e",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: What would you be unable to do if you have too much greed?\nAnswer Choices:\n(a) keep things\n(b) make friends\n(c) play poker\n(d) conquer opponent\n(e) lie\nA: \nThe answer is (conquer opponent). Therefore, the answer to this multiple-choice question is (e) lie."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: It was a long trip from the farm, so he stayed in a hotel when he arrived at the what?\nAnswer Choices:\n(a) bed away from home\n(b) wwii bunker\n(c) resort\n(d) las vegas\n(e) city\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: It was a long trip from the farm, so he stayed in a hotel when he arrived at the what?\nAnswer Choices:\n(a) bed away from home\n(b) wwii bunker\n(c) resort\n(d) las vegas\n(e) city\nA: \nThe answer is (city). Therefore, the answer to this multiple-choice question is (e) city.",
+  "predicted_choice": "e",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: It was a long trip from the farm, so he stayed in a hotel when he arrived at the what?\nAnswer Choices:\n(a) bed away from home\n(b) wwii bunker\n(c) resort\n(d) las vegas\n(e) city\nA: \nThe answer is (city). Therefore, the answer to this multiple-choice question is (e) city."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: I did not need a servant.  I was not a what?\nAnswer Choices:\n(a) freedom\n(b) rich person\n(c) hired help\n(d) in charge\n(e) busy\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: I did not need a servant.  I was not a what?\nAnswer Choices:\n(a) freedom\n(b) rich person\n(c) hired help\n(d) in charge\n(e) busy\nA: \nThe answer is (hired help). Therefore, the answer to this multiple-choice question is (c) hired help.",
+  "predicted_choice": "c",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: I did not need a servant.  I was not a what?\nAnswer Choices:\n(a) freedom\n(b) rich person\n(c) hired help\n(d) in charge\n(e) busy\nA: \nThe answer is (hired help). Therefore, the answer to this multiple-choice question is (c) hired help."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: How would you get from one side of a canal to another?\nAnswer Choices:\n(a) michigan\n(b) amsterdam\n(c) venice\n(d) bridge\n(e) barges to travel on\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: How would you get from one side of a canal to another?\nAnswer Choices:\n(a) michigan\n(b) amsterdam\n(c) venice\n(d) bridge\n(e) barges to travel on\nA: \nThe answer is (bridge). Therefore, the answer to this multiple-choice question is (d) bridge.",
+  "predicted_choice": "d",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: How would you get from one side of a canal to another?\nAnswer Choices:\n(a) michigan\n(b) amsterdam\n(c) venice\n(d) bridge\n(e) barges to travel on\nA: \nThe answer is (bridge). Therefore, the answer to this multiple-choice question is (d) bridge."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: When learning about the world and different cultures, what is important if you are committed to eliminating preconceived notions\nAnswer Choices:\n(a) newness\n(b) loss of innocence\n(c) enlightenment\n(d) open mind\n(e) smartness\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: When learning about the world and different cultures, what is important if you are committed to eliminating preconceived notions\nAnswer Choices:\n(a) newness\n(b) loss of innocence\n(c) enlightenment\n(d) open mind\n(e) smartness\nA: \nThe answer is (open mind).",
+  "predicted_choice": "e",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: When learning about the world and different cultures, what is important if you are committed to eliminating preconceived notions\nAnswer Choices:\n(a) newness\n(b) loss of innocence\n(c) enlightenment\n(d) open mind\n(e) smartness\nA: \nThe answer is (open mind)."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: An underrated thing about computers is how they manage workflow, at one time it was a big deal when they could first do what?\nAnswer Choices:\n(a) share files\n(b) do arithmetic\n(c) turn on\n(d) cost money\n(e) multitask\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: An underrated thing about computers is how they manage workflow, at one time it was a big deal when they could first do what?\nAnswer Choices:\n(a) share files\n(b) do arithmetic\n(c) turn on\n(d) cost money\n(e) multitask\nA: \nThe answer is (do arithmetic). Therefore, the answer to this multiple-choice question is (b) do arithmetic.",
+  "predicted_choice": "b",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: An underrated thing about computers is how they manage workflow, at one time it was a big deal when they could first do what?\nAnswer Choices:\n(a) share files\n(b) do arithmetic\n(c) turn on\n(d) cost money\n(e) multitask\nA: \nThe answer is (do arithmetic). Therefore, the answer to this multiple-choice question is (b) do arithmetic."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Obstructing justice is sometimes an excuse used for police brutality which causes what in people?\nAnswer Choices:\n(a) committing perjury\n(b) prosecution\n(c) attack\n(d) getting hurt\n(e) riot\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Obstructing justice is sometimes an excuse used for police brutality which causes what in people?\nAnswer Choices:\n(a) committing perjury\n(b) prosecution\n(c) attack\n(d) getting hurt\n(e) riot\nA: \nThe answer is (getting hurt). Therefore, the answer to this multiple-choice question is (d) getting hurt.",
+  "predicted_choice": "d",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: Obstructing justice is sometimes an excuse used for police brutality which causes what in people?\nAnswer Choices:\n(a) committing perjury\n(b) prosecution\n(c) attack\n(d) getting hurt\n(e) riot\nA: \nThe answer is (getting hurt). Therefore, the answer to this multiple-choice question is (d) getting hurt."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: While washing clothes they became what when caught on the sharp object?\nAnswer Choices:\n(a) damaged\n(b) wet clothes\n(c) wear out\n(d) torn\n(e) have fun\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: While washing clothes they became what when caught on the sharp object?\nAnswer Choices:\n(a) damaged\n(b) wet clothes\n(c) wear out\n(d) torn\n(e) have fun\nA: \nThe answer is (torn). Therefore, the answer to this multiple-choice question is (d) torn.",
+  "predicted_choice": "d",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: While washing clothes they became what when caught on the sharp object?\nAnswer Choices:\n(a) damaged\n(b) wet clothes\n(c) wear out\n(d) torn\n(e) have fun\nA: \nThe answer is (torn). Therefore, the answer to this multiple-choice question is (d) torn."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Seafood restaurants are used to draw tourists where?\nAnswer Choices:\n(a) maine\n(b) shoe shop\n(c) city\n(d) boston\n(e) coastal cities\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Seafood restaurants are used to draw tourists where?\nAnswer Choices:\n(a) maine\n(b) shoe shop\n(c) city\n(d) boston\n(e) coastal cities\nA: \nThe answer is (coastal cities). Therefore, the answer to this multiple-choice question is (e) coastal cities.",
+  "predicted_choice": "e",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: Seafood restaurants are used to draw tourists where?\nAnswer Choices:\n(a) maine\n(b) shoe shop\n(c) city\n(d) boston\n(e) coastal cities\nA: \nThe answer is (coastal cities). Therefore, the answer to this multiple-choice question is (e) coastal cities."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: James's nice asked him about her grandfather. She was interested in learning about what?\nAnswer Choices:\n(a) family tree\n(b) family reunion\n(c) babysitting\n(d) brother's house\n(e) heirlooms\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: James's nice asked him about her grandfather. She was interested in learning about what?\nAnswer Choices:\n(a) family tree\n(b) family reunion\n(c) babysitting\n(d) brother's house\n(e) heirlooms\nA: \nThe answer is (family tree). Therefore, the answer to this multiple-choice question is (a) family tree.",
+  "predicted_choice": "a",
+  "correct_answer": "a",
+  "generated_text": "system\n \nuser\nQ: James's nice asked him about her grandfather. She was interested in learning about what?\nAnswer Choices:\n(a) family tree\n(b) family reunion\n(c) babysitting\n(d) brother's house\n(e) heirlooms\nA: \nThe answer is (family tree). Therefore, the answer to this multiple-choice question is (a) family tree."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: James looked up and saw the start twinkling in the black yonder.  He marveled the sheer number of them and the size of what?\nAnswer Choices:\n(a) universe\n(b) orbit\n(c) night sky\n(d) outer space\n(e) his wallet\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: James looked up and saw the start twinkling in the black yonder.  He marveled the sheer number of them and the size of what?\nAnswer Choices:\n(a) universe\n(b) orbit\n(c) night sky\n(d) outer space\n(e) his wallet\nA: \nThe answer is (outer space). Therefore, the answer to this multiple-choice question is (outer space).",
+  "predicted_choice": "e",
+  "correct_answer": "a",
+  "generated_text": "system\n \nuser\nQ: James looked up and saw the start twinkling in the black yonder.  He marveled the sheer number of them and the size of what?\nAnswer Choices:\n(a) universe\n(b) orbit\n(c) night sky\n(d) outer space\n(e) his wallet\nA: \nThe answer is (outer space). Therefore, the answer to this multiple-choice question is (outer space)."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What would encourage someone to continue playing tennis?\nAnswer Choices:\n(a) becoming tired\n(b) tennis elbow\n(c) exercise\n(d) hunger\n(e) victory\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: What would encourage someone to continue playing tennis?\nAnswer Choices:\n(a) becoming tired\n(b) tennis elbow\n(c) exercise\n(d) hunger\n(e) victory\nA: \nThe answer is (victory). Therefore, the answer to this multiple-choice question is (e) victory.",
+  "predicted_choice": "e",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: What would encourage someone to continue playing tennis?\nAnswer Choices:\n(a) becoming tired\n(b) tennis elbow\n(c) exercise\n(d) hunger\n(e) victory\nA: \nThe answer is (victory). Therefore, the answer to this multiple-choice question is (e) victory."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: James found the sound relaxing.   It was so relaxing he almost did what despite his efforts?\nAnswer Choices:\n(a) deep breathing\n(b) worried\n(c) fall asleep\n(d) invigorating\n(e) feeling good\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: James found the sound relaxing.   It was so relaxing he almost did what despite his efforts?\nAnswer Choices:\n(a) deep breathing\n(b) worried\n(c) fall asleep\n(d) invigorating\n(e) feeling good\nA: \nThe answer is (fall asleep). Therefore, the answer to this multiple-choice question is (c) fall asleep.",
+  "predicted_choice": "c",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: James found the sound relaxing.   It was so relaxing he almost did what despite his efforts?\nAnswer Choices:\n(a) deep breathing\n(b) worried\n(c) fall asleep\n(d) invigorating\n(e) feeling good\nA: \nThe answer is (fall asleep). Therefore, the answer to this multiple-choice question is (c) fall asleep."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What regions of a town would you have found a dime store?\nAnswer Choices:\n(a) commercial building\n(b) old movie\n(c) small neighborhood\n(d) past\n(e) mall\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: What regions of a town would you have found a dime store?\nAnswer Choices:\n(a) commercial building\n(b) old movie\n(c) small neighborhood\n(d) past\n(e) mall\nA: \nThe answer is (small neighborhood). Therefore, the answer to this multiple-choice question is (c) small neighborhood.",
+  "predicted_choice": "c",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: What regions of a town would you have found a dime store?\nAnswer Choices:\n(a) commercial building\n(b) old movie\n(c) small neighborhood\n(d) past\n(e) mall\nA: \nThe answer is (small neighborhood). Therefore, the answer to this multiple-choice question is (c) small neighborhood."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Where might an unused chess set be stored?\nAnswer Choices:\n(a) toy store\n(b) michigan\n(c) living room\n(d) attic\n(e) cupboard\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: Where might an unused chess set be stored?\nAnswer Choices:\n(a) toy store\n(b) michigan\n(c) living room\n(d) attic\n(e) cupboard\nA: \nThe answer is (attic). Therefore, the answer to this multiple-choice question is (d) attic.",
+  "predicted_choice": "d",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: Where might an unused chess set be stored?\nAnswer Choices:\n(a) toy store\n(b) michigan\n(c) living room\n(d) attic\n(e) cupboard\nA: \nThe answer is (attic). Therefore, the answer to this multiple-choice question is (d) attic."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: james told his son to settle down and be careful.  There were many frogs mating in the area, and James didn't want his son to do what to them?\nAnswer Choices:\n(a) wander\n(b) migrate\n(c) scare\n(d) disturb\n(e) agitate\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: james told his son to settle down and be careful.  There were many frogs mating in the area, and James didn't want his son to do what to them?\nAnswer Choices:\n(a) wander\n(b) migrate\n(c) scare\n(d) disturb\n(e) agitate\nA: \nThe answer is (disturb). Therefore, the answer to this multiple-choice question is (d) disturb.",
+  "predicted_choice": "d",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: james told his son to settle down and be careful.  There were many frogs mating in the area, and James didn't want his son to do what to them?\nAnswer Choices:\n(a) wander\n(b) migrate\n(c) scare\n(d) disturb\n(e) agitate\nA: \nThe answer is (disturb). Therefore, the answer to this multiple-choice question is (d) disturb."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: A man wants air conditioning while we watches the game on Saturday, where will it likely be installed?\nAnswer Choices:\n(a) car\n(b) house\n(c) offices\n(d) park\n(e) movie theatre\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: A man wants air conditioning while we watches the game on Saturday, where will it likely be installed?\nAnswer Choices:\n(a) car\n(b) house\n(c) offices\n(d) park\n(e) movie theatre\nA: \nThe answer is (house). Therefore, the answer to this multiple-choice question is (d) house.",
+  "predicted_choice": "d",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: A man wants air conditioning while we watches the game on Saturday, where will it likely be installed?\nAnswer Choices:\n(a) car\n(b) house\n(c) offices\n(d) park\n(e) movie theatre\nA: \nThe answer is (house). Therefore, the answer to this multiple-choice question is (d) house."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What could be playing a balailaika?\nAnswer Choices:\n(a) movie dr\n(b) orchestra\n(c) music store\n(d) cat\n(e) symphony\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: What could be playing a balailaika?\nAnswer Choices:\n(a) movie dr\n(b) orchestra\n(c) music store\n(d) cat\n(e) symphony\nA: \nThe answer is (orchestra). Therefore, the answer to this multiple-choice question is (c) orchestra.",
+  "predicted_choice": "c",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: What could be playing a balailaika?\nAnswer Choices:\n(a) movie dr\n(b) orchestra\n(c) music store\n(d) cat\n(e) symphony\nA: \nThe answer is (orchestra). Therefore, the answer to this multiple-choice question is (c) orchestra."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Sailors drive many different types of boats, what type of boat involves their namesake.\nAnswer Choices:\n(a) coming home\n(b) row boat\n(c) board ship\n(d) inflatable raft\n(e) sail boat\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Sailors drive many different types of boats, what type of boat involves their namesake.\nAnswer Choices:\n(a) coming home\n(b) row boat\n(c) board ship\n(d) inflatable raft\n(e) sail boat\nA: \nThe answer is (sail boat). Therefore, the answer to this multiple-choice question is (e) sail boat.",
+  "predicted_choice": "e",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: Sailors drive many different types of boats, what type of boat involves their namesake.\nAnswer Choices:\n(a) coming home\n(b) row boat\n(c) board ship\n(d) inflatable raft\n(e) sail boat\nA: \nThe answer is (sail boat). Therefore, the answer to this multiple-choice question is (e) sail boat."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Where could a person avoid the rain?\nAnswer Choices:\n(a) bus stop\n(b) tunnel\n(c) synagogue\n(d) fairy tale\n(e) street corner\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Where could a person avoid the rain?\nAnswer Choices:\n(a) bus stop\n(b) tunnel\n(c) synagogue\n(d) fairy tale\n(e) street corner\nA: \nThe answer is (tunnel). Therefore, the answer to this multiple-choice question is (c) tunnel.",
+  "predicted_choice": "c",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: Where could a person avoid the rain?\nAnswer Choices:\n(a) bus stop\n(b) tunnel\n(c) synagogue\n(d) fairy tale\n(e) street corner\nA: \nThe answer is (tunnel). Therefore, the answer to this multiple-choice question is (c) tunnel."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Why would a person like to have a large house?\nAnswer Choices:\n(a) have choice\n(b) mentally challenged\n(c) own house\n(d) obesity\n(e) lots of space\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Why would a person like to have a large house?\nAnswer Choices:\n(a) have choice\n(b) mentally challenged\n(c) own house\n(d) obesity\n(e) lots of space\nA: \nThe answer is (lots of space). Therefore, the answer to this multiple-choice question is (e) lots of space.",
+  "predicted_choice": "e",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: Why would a person like to have a large house?\nAnswer Choices:\n(a) have choice\n(b) mentally challenged\n(c) own house\n(d) obesity\n(e) lots of space\nA: \nThe answer is (lots of space). Therefore, the answer to this multiple-choice question is (e) lots of space."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Where will a cheap book be found?\nAnswer Choices:\n(a) bookstore\n(b) classroom\n(c) discount store\n(d) school room\n(e) bedside table\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Where will a cheap book be found?\nAnswer Choices:\n(a) bookstore\n(b) classroom\n(c) discount store\n(d) school room\n(e) bedside table\nA: \nThe answer is (discount store). Therefore, the answer to this multiple-choice question is (c) discount store.",
+  "predicted_choice": "c",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: Where will a cheap book be found?\nAnswer Choices:\n(a) bookstore\n(b) classroom\n(c) discount store\n(d) school room\n(e) bedside table\nA: \nThe answer is (discount store). Therefore, the answer to this multiple-choice question is (c) discount store."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: John and James are idiots. They bought two tickets to the Falcons vs the Jets even though neither wanted to see the what?\nAnswer Choices:\n(a) internet cafe\n(b) sporting event\n(c) pressing wrong buttons\n(d) obesity\n(e) hockey game\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: John and James are idiots. They bought two tickets to the Falcons vs the Jets even though neither wanted to see the what?\nAnswer Choices:\n(a) internet cafe\n(b) sporting event\n(c) pressing wrong buttons\n(d) obesity\n(e) hockey game\nA: \nThe answer is (hockey game). Therefore, the answer to this multiple-choice question is (e) hockey game.",
+  "predicted_choice": "e",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: John and James are idiots. They bought two tickets to the Falcons vs the Jets even though neither wanted to see the what?\nAnswer Choices:\n(a) internet cafe\n(b) sporting event\n(c) pressing wrong buttons\n(d) obesity\n(e) hockey game\nA: \nThe answer is (hockey game). Therefore, the answer to this multiple-choice question is (e) hockey game."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: James noticed that his penis was bigger. .  How might he act toward his plastic surgeon?\nAnswer Choices:\n(a) accidental\n(b) detestable\n(c) effusive\n(d) enabled\n(e) apathetic\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: James noticed that his penis was bigger. .  How might he act toward his plastic surgeon?\nAnswer Choices:\n(a) accidental\n(b) detestable\n(c) effusive\n(d) enabled\n(e) apathetic\nA: \nThe answer is (effusive). Therefore, the answer to this multiple-choice question is (c) effusive.",
+  "predicted_choice": "c",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: James noticed that his penis was bigger. .  How might he act toward his plastic surgeon?\nAnswer Choices:\n(a) accidental\n(b) detestable\n(c) effusive\n(d) enabled\n(e) apathetic\nA: \nThe answer is (effusive). Therefore, the answer to this multiple-choice question is (c) effusive."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Who do professors work with?\nAnswer Choices:\n(a) methods of facts\n(b) teach courses\n(c) wear wrinkled tweed jackets\n(d) school students\n(e) state facts\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Who do professors work with?\nAnswer Choices:\n(a) methods of facts\n(b) teach courses\n(c) wear wrinkled tweed jackets\n(d) school students\n(e) state facts\nA: \nThe answer is (teach courses). Therefore, the answer to this multiple-choice question is (d) teach courses.",
+  "predicted_choice": "d",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: Who do professors work with?\nAnswer Choices:\n(a) methods of facts\n(b) teach courses\n(c) wear wrinkled tweed jackets\n(d) school students\n(e) state facts\nA: \nThe answer is (teach courses). Therefore, the answer to this multiple-choice question is (d) teach courses."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Colorful anemone look somewhat like what object you find on window sills?\nAnswer Choices:\n(a) intertidal zone\n(b) coral sea\n(c) under water\n(d) flower bed\n(e) florida keys\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: Colorful anemone look somewhat like what object you find on window sills?\nAnswer Choices:\n(a) intertidal zone\n(b) coral sea\n(c) under water\n(d) flower bed\n(e) florida keys\nA: \nThe answer is (flower bed).",
+  "predicted_choice": "e",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: Colorful anemone look somewhat like what object you find on window sills?\nAnswer Choices:\n(a) intertidal zone\n(b) coral sea\n(c) under water\n(d) flower bed\n(e) florida keys\nA: \nThe answer is (flower bed)."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: From where do aliens arrive?\nAnswer Choices:\n(a) outer space\n(b) weekly world news\n(c) roswell\n(d) universe\n(e) mars\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: From where do aliens arrive?\nAnswer Choices:\n(a) outer space\n(b) weekly world news\n(c) roswell\n(d) universe\n(e) mars\nA: \nThe answer is (outer space). Therefore, the answer to this multiple-choice question is (outer space).",
+  "predicted_choice": "e",
+  "correct_answer": "a",
+  "generated_text": "system\n \nuser\nQ: From where do aliens arrive?\nAnswer Choices:\n(a) outer space\n(b) weekly world news\n(c) roswell\n(d) universe\n(e) mars\nA: \nThe answer is (outer space). Therefore, the answer to this multiple-choice question is (outer space)."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: The hikers stopped to have a drink, simply put they what?\nAnswer Choices:\n(a) had a party\n(b) were thirsty\n(c) refreshment\n(d) getting drunk\n(e) celebrating\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: The hikers stopped to have a drink, simply put they what?\nAnswer Choices:\n(a) had a party\n(b) were thirsty\n(c) refreshment\n(d) getting drunk\n(e) celebrating\nA: \nThe answer is (were thirsty). Therefore, the answer to this multiple-choice question is (b) were thirsty.",
+  "predicted_choice": "b",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: The hikers stopped to have a drink, simply put they what?\nAnswer Choices:\n(a) had a party\n(b) were thirsty\n(c) refreshment\n(d) getting drunk\n(e) celebrating\nA: \nThe answer is (were thirsty). Therefore, the answer to this multiple-choice question is (b) were thirsty."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: When you get up in the morning before you begin work you should do what?\nAnswer Choices:\n(a) apply for job\n(b) sleep\n(c) concentrate\n(d) shower\n(e) just do\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: When you get up in the morning before you begin work you should do what?\nAnswer Choices:\n(a) apply for job\n(b) sleep\n(c) concentrate\n(d) shower\n(e) just do\nA: \nThe answer is (shower). Therefore, the answer to this multiple-choice question is (d) shower.",
+  "predicted_choice": "d",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: When you get up in the morning before you begin work you should do what?\nAnswer Choices:\n(a) apply for job\n(b) sleep\n(c) concentrate\n(d) shower\n(e) just do\nA: \nThe answer is (shower). Therefore, the answer to this multiple-choice question is (d) shower."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: The kitten had nothing to dig it's claws into, so when it tried to stop it slid across what?\nAnswer Choices:\n(a) living room\n(b) floor\n(c) warm place\n(d) carpet\n(e) farmhouse\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: The kitten had nothing to dig it's claws into, so when it tried to stop it slid across what?\nAnswer Choices:\n(a) living room\n(b) floor\n(c) warm place\n(d) carpet\n(e) farmhouse\nA: \nThe answer is (floor).",
+  "predicted_choice": "e",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: The kitten had nothing to dig it's claws into, so when it tried to stop it slid across what?\nAnswer Choices:\n(a) living room\n(b) floor\n(c) warm place\n(d) carpet\n(e) farmhouse\nA: \nThe answer is (floor)."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: If a person is trying to keep something in their hand what should they do?\nAnswer Choices:\n(a) complete collection\n(b) own house\n(c) procrastinate\n(d) explode\n(e) have to hold\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: If a person is trying to keep something in their hand what should they do?\nAnswer Choices:\n(a) complete collection\n(b) own house\n(c) procrastinate\n(d) explode\n(e) have to hold\nA: \nThe answer is (have to hold). Therefore, the answer to this multiple-choice question is (e) have to hold.",
+  "predicted_choice": "e",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: If a person is trying to keep something in their hand what should they do?\nAnswer Choices:\n(a) complete collection\n(b) own house\n(c) procrastinate\n(d) explode\n(e) have to hold\nA: \nThe answer is (have to hold). Therefore, the answer to this multiple-choice question is (e) have to hold."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Where could you find hundreds of thousands of home?\nAnswer Choices:\n(a) field\n(b) neighborhood\n(c) star can\n(d) city or town\n(e) apartment building\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: Where could you find hundreds of thousands of home?\nAnswer Choices:\n(a) field\n(b) neighborhood\n(c) star can\n(d) city or town\n(e) apartment building\nA: \nThe answer is (apartment building). Therefore, the answer to this multiple-choice question is (c) apartment building.",
+  "predicted_choice": "c",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: Where could you find hundreds of thousands of home?\nAnswer Choices:\n(a) field\n(b) neighborhood\n(c) star can\n(d) city or town\n(e) apartment building\nA: \nThe answer is (apartment building). Therefore, the answer to this multiple-choice question is (c) apartment building."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Playing baseball is a lot like any other sport, there is always a risk of what?\nAnswer Choices:\n(a) sore muscles\n(b) errors\n(c) happiness\n(d) injury\n(e) fun\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Playing baseball is a lot like any other sport, there is always a risk of what?\nAnswer Choices:\n(a) sore muscles\n(b) errors\n(c) happiness\n(d) injury\n(e) fun\nA: \nThe answer is (injury). Therefore, the answer to this multiple-choice question is (d) injury.",
+  "predicted_choice": "d",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: Playing baseball is a lot like any other sport, there is always a risk of what?\nAnswer Choices:\n(a) sore muscles\n(b) errors\n(c) happiness\n(d) injury\n(e) fun\nA: \nThe answer is (injury). Therefore, the answer to this multiple-choice question is (d) injury."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: If I want to watch a movie without leaving my home what might I use?\nAnswer Choices:\n(a) drive in movie\n(b) drive in movie\n(c) television\n(d) video store\n(e) show\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: If I want to watch a movie without leaving my home what might I use?\nAnswer Choices:\n(a) drive in movie\n(b) drive in movie\n(c) television\n(d) video store\n(e) show\nA: \nThe answer is (television). Therefore, the answer to this multiple-choice question is (d) television.",
+  "predicted_choice": "d",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: If I want to watch a movie without leaving my home what might I use?\nAnswer Choices:\n(a) drive in movie\n(b) drive in movie\n(c) television\n(d) video store\n(e) show\nA: \nThe answer is (television). Therefore, the answer to this multiple-choice question is (d) television."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: The victim was to take stand today, they were going to do what?\nAnswer Choices:\n(a) testify\n(b) runaway\n(c) witness\n(d) tell truth\n(e) go home\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: The victim was to take stand today, they were going to do what?\nAnswer Choices:\n(a) testify\n(b) runaway\n(c) witness\n(d) tell truth\n(e) go home\nA: \nThe answer is (testify). Therefore, the answer to this multiple-choice question is (a) testify.",
+  "predicted_choice": "a",
+  "correct_answer": "a",
+  "generated_text": "system\n \nuser\nQ: The victim was to take stand today, they were going to do what?\nAnswer Choices:\n(a) testify\n(b) runaway\n(c) witness\n(d) tell truth\n(e) go home\nA: \nThe answer is (testify). Therefore, the answer to this multiple-choice question is (a) testify."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What does a successful dog grooming session likely to make a owner feel?\nAnswer Choices:\n(a) cleanliness\n(b) mistakes\n(c) growth\n(d) satisfaction\n(e) late\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: What does a successful dog grooming session likely to make a owner feel?\nAnswer Choices:\n(a) cleanliness\n(b) mistakes\n(c) growth\n(d) satisfaction\n(e) late\nA: \nThe answer is (satisfaction). Therefore, the answer to this multiple-choice question is (d) satisfaction.",
+  "predicted_choice": "d",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: What does a successful dog grooming session likely to make a owner feel?\nAnswer Choices:\n(a) cleanliness\n(b) mistakes\n(c) growth\n(d) satisfaction\n(e) late\nA: \nThe answer is (satisfaction). Therefore, the answer to this multiple-choice question is (d) satisfaction."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: The runner was in third place, but he pushed harder and thought he might be able to reach second.  What was beginning to do?\nAnswer Choices:\n(a) near finish line\n(b) finish\n(c) get tired\n(d) gain ground\n(e) trip over\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: The runner was in third place, but he pushed harder and thought he might be able to reach second.  What was beginning to do?\nAnswer Choices:\n(a) near finish line\n(b) finish\n(c) get tired\n(d) gain ground\n(e) trip over\nA: \nThe answer is (gain ground). Therefore, the answer to this multiple-choice question is (d) gain ground.",
+  "predicted_choice": "d",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: The runner was in third place, but he pushed harder and thought he might be able to reach second.  What was beginning to do?\nAnswer Choices:\n(a) near finish line\n(b) finish\n(c) get tired\n(d) gain ground\n(e) trip over\nA: \nThe answer is (gain ground). Therefore, the answer to this multiple-choice question is (d) gain ground."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: The tourist entered Mammoth cave, what state were they in?\nAnswer Choices:\n(a) west virginia\n(b) kentucky\n(c) rocky hills\n(d) scotland\n(e) canyon\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: The tourist entered Mammoth cave, what state were they in?\nAnswer Choices:\n(a) west virginia\n(b) kentucky\n(c) rocky hills\n(d) scotland\n(e) canyon\nA: \nThe answer is (kentucky). Therefore, the answer to this multiple-choice question is (b) Kentucky.",
+  "predicted_choice": "b",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: The tourist entered Mammoth cave, what state were they in?\nAnswer Choices:\n(a) west virginia\n(b) kentucky\n(c) rocky hills\n(d) scotland\n(e) canyon\nA: \nThe answer is (kentucky). Therefore, the answer to this multiple-choice question is (b) Kentucky."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What does someone typically feel when applying for a job?\nAnswer Choices:\n(a) horror\n(b) anxiety and fear\n(c) rejection\n(d) increased workload\n(e) being employed\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: What does someone typically feel when applying for a job?\nAnswer Choices:\n(a) horror\n(b) anxiety and fear\n(c) rejection\n(d) increased workload\n(e) being employed\nA: \nThe answer is (anxiety and fear). Therefore, the answer to this multiple-choice question is (b) anxiety and fear.",
+  "predicted_choice": "b",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: What does someone typically feel when applying for a job?\nAnswer Choices:\n(a) horror\n(b) anxiety and fear\n(c) rejection\n(d) increased workload\n(e) being employed\nA: \nThe answer is (anxiety and fear). Therefore, the answer to this multiple-choice question is (b) anxiety and fear."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: He was on trial for obstructing justice, during which he made a questionable comment and was also found guilty of what?\nAnswer Choices:\n(a) prosecution\n(b) getting hurt\n(c) sweat\n(d) steam\n(e) committing perjury\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: He was on trial for obstructing justice, during which he made a questionable comment and was also found guilty of what?\nAnswer Choices:\n(a) prosecution\n(b) getting hurt\n(c) sweat\n(d) steam\n(e) committing perjury\nA: \nThe answer is (committing perjury). Therefore, the answer to this multiple-choice question is (e) committing perjury.",
+  "predicted_choice": "e",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: He was on trial for obstructing justice, during which he made a questionable comment and was also found guilty of what?\nAnswer Choices:\n(a) prosecution\n(b) getting hurt\n(c) sweat\n(d) steam\n(e) committing perjury\nA: \nThe answer is (committing perjury). Therefore, the answer to this multiple-choice question is (e) committing perjury."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What kind of feelings does buying presents for others create?\nAnswer Choices:\n(a) tears\n(b) please\n(c) like\n(d) thank\n(e) make happy\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: What kind of feelings does buying presents for others create?\nAnswer Choices:\n(a) tears\n(b) please\n(c) like\n(d) thank\n(e) make happy\nA: \nThe answer is (make happy). Therefore, the answer to this multiple-choice question is (e) make happy.",
+  "predicted_choice": "e",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: What kind of feelings does buying presents for others create?\nAnswer Choices:\n(a) tears\n(b) please\n(c) like\n(d) thank\n(e) make happy\nA: \nThe answer is (make happy). Therefore, the answer to this multiple-choice question is (e) make happy."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What green area is a marmot likely to be found in?\nAnswer Choices:\n(a) countryside\n(b) great plains\n(c) encyclopedia\n(d) jungle\n(e) north america\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: What green area is a marmot likely to be found in?\nAnswer Choices:\n(a) countryside\n(b) great plains\n(c) encyclopedia\n(d) jungle\n(e) north america\nA: \nThe answer is (countryside). Therefore, the answer to this multiple-choice question is (countryside).",
+  "predicted_choice": "e",
+  "correct_answer": "a",
+  "generated_text": "system\n \nuser\nQ: What green area is a marmot likely to be found in?\nAnswer Choices:\n(a) countryside\n(b) great plains\n(c) encyclopedia\n(d) jungle\n(e) north america\nA: \nThe answer is (countryside). Therefore, the answer to this multiple-choice question is (countryside)."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Jan tested the current, and noticed that it was high.  He thought that the wires might have too much what?\nAnswer Choices:\n(a) later\n(b) updated\n(c) still\n(d) resistance\n(e) now\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Jan tested the current, and noticed that it was high.  He thought that the wires might have too much what?\nAnswer Choices:\n(a) later\n(b) updated\n(c) still\n(d) resistance\n(e) now\nA: \nThe answer is (resistance). Therefore, the answer to this multiple-choice question is (d) resistance.",
+  "predicted_choice": "d",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: Jan tested the current, and noticed that it was high.  He thought that the wires might have too much what?\nAnswer Choices:\n(a) later\n(b) updated\n(c) still\n(d) resistance\n(e) now\nA: \nThe answer is (resistance). Therefore, the answer to this multiple-choice question is (d) resistance."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What does a kindergarten teacher do before nap time?\nAnswer Choices:\n(a) lower expectations\n(b) encourage\n(c) fear\n(d) time test\n(e) tell story\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: What does a kindergarten teacher do before nap time?\nAnswer Choices:\n(a) lower expectations\n(b) encourage\n(c) fear\n(d) time test\n(e) tell story\nA: \nThe answer is (encourage). Therefore, the answer to this multiple-choice question is (b) encourage. A kindergarten teacher encourages children to participate in activities and play during nap time. Therefore, the answer to this multiple-choice question is (b) encourage.",
+  "predicted_choice": "b",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: What does a kindergarten teacher do before nap time?\nAnswer Choices:\n(a) lower expectations\n(b) encourage\n(c) fear\n(d) time test\n(e) tell story\nA: \nThe answer is (encourage). Therefore, the answer to this multiple-choice question is (b) encourage. A kindergarten teacher encourages children to participate in activities and play during nap time. Therefore, the answer to this multiple-choice question is (b) encourage."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Sam was a stranger.  Even so, Mark treated him like what?\nAnswer Choices:\n(a) friend\n(b) family\n(c) known person\n(d) park\n(e) outsider\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: Sam was a stranger.  Even so, Mark treated him like what?\nAnswer Choices:\n(a) friend\n(b) family\n(c) known person\n(d) park\n(e) outsider\nA: \nThe answer is (known person). Therefore, the answer to this multiple-choice question is (c) known person.",
+  "predicted_choice": "c",
+  "correct_answer": "b",
+  "generated_text": "system\n \nuser\nQ: Sam was a stranger.  Even so, Mark treated him like what?\nAnswer Choices:\n(a) friend\n(b) family\n(c) known person\n(d) park\n(e) outsider\nA: \nThe answer is (known person). Therefore, the answer to this multiple-choice question is (c) known person."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Bob's only light source was a small bulb.  There were four walls, if there was a door he couldn't see it.  What was Bob in?\nAnswer Choices:\n(a) closed room\n(b) sky\n(c) dard\n(d) his grave\n(e) house\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: Bob's only light source was a small bulb.  There were four walls, if there was a door he couldn't see it.  What was Bob in?\nAnswer Choices:\n(a) closed room\n(b) sky\n(c) dard\n(d) his grave\n(e) house\nA: \nThe answer is (house).",
+  "predicted_choice": "e",
+  "correct_answer": "a",
+  "generated_text": "system\n \nuser\nQ: Bob's only light source was a small bulb.  There were four walls, if there was a door he couldn't see it.  What was Bob in?\nAnswer Choices:\n(a) closed room\n(b) sky\n(c) dard\n(d) his grave\n(e) house\nA: \nThe answer is (house)."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: James thought of criminal justice like a computer program.  It need to work right.   What ideas might James not like?\nAnswer Choices:\n(a) manual\n(b) process information\n(c) power down\n(d) control model\n(e) reason exists\nA: <|im_end|>\n",
+  "score": 0,
+  "rationale": "system\n \nuser\nQ: James thought of criminal justice like a computer program.  It need to work right.   What ideas might James not like?\nAnswer Choices:\n(a) manual\n(b) process information\n(c) power down\n(d) control model\n(e) reason exists\nA: \nThe answer is (manual). Therefore, the answer to this multiple-choice question is (a) manual.",
+  "predicted_choice": "a",
+  "correct_answer": "d",
+  "generated_text": "system\n \nuser\nQ: James thought of criminal justice like a computer program.  It need to work right.   What ideas might James not like?\nAnswer Choices:\n(a) manual\n(b) process information\n(c) power down\n(d) control model\n(e) reason exists\nA: \nThe answer is (manual). Therefore, the answer to this multiple-choice question is (a) manual."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: With the card slot lit up he knew how to get started finding his balance with what?\nAnswer Choices:\n(a) slot machine\n(b) ticket machine\n(c) bank machine\n(d) telephone\n(e) automated teller\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: With the card slot lit up he knew how to get started finding his balance with what?\nAnswer Choices:\n(a) slot machine\n(b) ticket machine\n(c) bank machine\n(d) telephone\n(e) automated teller\nA: \nThe answer is (card machine). Therefore, the answer to this multiple-choice question is (card machine).",
+  "predicted_choice": "e",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: With the card slot lit up he knew how to get started finding his balance with what?\nAnswer Choices:\n(a) slot machine\n(b) ticket machine\n(c) bank machine\n(d) telephone\n(e) automated teller\nA: \nThe answer is (card machine). Therefore, the answer to this multiple-choice question is (card machine)."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: To play sports professionally you must do what very often?\nAnswer Choices:\n(a) wash your clothes\n(b) get in shape\n(c) practice\n(d) take off uniform\n(e) stretch\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: To play sports professionally you must do what very often?\nAnswer Choices:\n(a) wash your clothes\n(b) get in shape\n(c) practice\n(d) take off uniform\n(e) stretch\nA: \nThe answer is (practice). Therefore, the answer to this multiple-choice question is (c) practice.",
+  "predicted_choice": "c",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: To play sports professionally you must do what very often?\nAnswer Choices:\n(a) wash your clothes\n(b) get in shape\n(c) practice\n(d) take off uniform\n(e) stretch\nA: \nThe answer is (practice). Therefore, the answer to this multiple-choice question is (c) practice."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: Some people prefer releasing energy through work while others prefer to release it through what?\nAnswer Choices:\n(a) motion\n(b) stretch\n(c) exercise\n(d) movement\n(e) muscles\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: Some people prefer releasing energy through work while others prefer to release it through what?\nAnswer Choices:\n(a) motion\n(b) stretch\n(c) exercise\n(d) movement\n(e) muscles\nA: \nThe answer is (exercise). Therefore, the answer to this multiple-choice question is (c) exercise.",
+  "predicted_choice": "c",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: Some people prefer releasing energy through work while others prefer to release it through what?\nAnswer Choices:\n(a) motion\n(b) stretch\n(c) exercise\n(d) movement\n(e) muscles\nA: \nThe answer is (exercise). Therefore, the answer to this multiple-choice question is (c) exercise."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: What will a person going for a jog likely be wearing?\nAnswer Choices:\n(a) grope\n(b) acknowledgment\n(c) comfortable clothes\n(d) ipod\n(e) passionate kisses\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: What will a person going for a jog likely be wearing?\nAnswer Choices:\n(a) grope\n(b) acknowledgment\n(c) comfortable clothes\n(d) ipod\n(e) passionate kisses\nA: \nThe answer is (comfortable clothes). Therefore, the answer to this multiple-choice question is (c) comfortable clothes. A person going for a jog is likely to be wearing comfortable clothes. Therefore, the answer to this multiple-choice question is (c) comfortable clothes.",
+  "predicted_choice": "c",
+  "correct_answer": "c",
+  "generated_text": "system\n \nuser\nQ: What will a person going for a jog likely be wearing?\nAnswer Choices:\n(a) grope\n(b) acknowledgment\n(c) comfortable clothes\n(d) ipod\n(e) passionate kisses\nA: \nThe answer is (comfortable clothes). Therefore, the answer to this multiple-choice question is (c) comfortable clothes. A person going for a jog is likely to be wearing comfortable clothes. Therefore, the answer to this multiple-choice question is (c) comfortable clothes."
+}
+{
+  "prompt": "<|im_start|>system\n <|im_end|>\n<|im_start|>user\nQ: The child pretended he was reading newspaper, he couldn't actually do it without what?\nAnswer Choices:\n(a) patience\n(b) falling down\n(c) literacy\n(d) buying\n(e) knowing how to read\nA: <|im_end|>\n",
+  "score": 1,
+  "rationale": "system\n \nuser\nQ: The child pretended he was reading newspaper, he couldn't actually do it without what?\nAnswer Choices:\n(a) patience\n(b) falling down\n(c) literacy\n(d) buying\n(e) knowing how to read\nA: \nThe answer is (literacy). Therefore, the answer to this multiple-choice question is (e) knowing how to read.",
+  "predicted_choice": "e",
+  "correct_answer": "e",
+  "generated_text": "system\n \nuser\nQ: The child pretended he was reading newspaper, he couldn't actually do it without what?\nAnswer Choices:\n(a) patience\n(b) falling down\n(c) literacy\n(d) buying\n(e) knowing how to read\nA: \nThe answer is (literacy). Therefore, the answer to this multiple-choice question is (e) knowing how to read."
+}

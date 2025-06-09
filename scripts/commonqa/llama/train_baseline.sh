@@ -6,11 +6,11 @@
 #SBATCH --partition=vci_gpu_priority,gpu_batch,gpu,preemptible
 #SBATCH --gres=gpu:1
 #SBATCH --cpus-per-task=12
-#SBATCH --mem=80G
+#SBATCH --mem=100G
 #SBATCH --nodes=1 
 #SBATCH --ntasks=1
 
 conda activate 224r
 cd /home/sanjay/224r
 
-python train_commonqa_baseline.py --num_epochs 5 --batch_size 5 --model_name meta-llama/Llama-3.2-3B-Instruct --out_dir results/exp2_commonqa_llama_baseline --reward_type binary
+python train_commonqa_baseline.py --num_epochs 5 --batch_size 3 --model_name meta-llama/Llama-3.2-3B-Instruct --out_dir results/exp2_commonqa_llama_baseline --reward_type binary --lr 5e-7

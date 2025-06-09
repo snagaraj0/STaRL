@@ -8,6 +8,7 @@ from torch.utils.tensorboard import SummaryWriter
 import json
 import os
 import re
+import shutil
 import random
 import argparse
 import pprint
@@ -20,14 +21,15 @@ def parse_args():
     parser.add_argument("--reward_type", type=str, choices=["binary", "normalized_binary", "normalized_binary_variance"], default="binary", 
                         help="Type of reward to use. Choose from: binary, normalized_binary, normalized_binary_variance")
     parser.add_argument("--temp", type=float, default=0.7, help="Sampling temperature")
-    parser.add_argument("--max_new_tokens", type=int, default=512, help="Max new tokens to generate")
+    parser.add_argument("--max_new_tokens", type=int, default=200, help="Max new tokens to generate")
     parser.add_argument("--batch_size", type=int, default=5, help="Batch size")
     parser.add_argument("--num_epochs", type=int, default=5, help="Number of training epochs")
     parser.add_argument("--train_size", type=int, default=5000, help="Training set size")
     parser.add_argument("--val_size", type=int, default=150, help="Validation set size")
     parser.add_argument("--log_every", type=int, default=50, help="Steps between logs")
     parser.add_argument("--out_dir", type=str, default="test_exp", help="Directory to save run outputs to")
-    parser.add_argument("--save_checkpoint_every", type=int, default=100, help="How frequently to save model checkpoints")
+    parser.add_argument("--save_checkpoint_every", type=int, default=500, help="How frequently to save model checkpoints")
+    parser.add_argument("--lr", type=float, default=5e-7, help="LR for model")
 
     return parser.parse_args()
 
@@ -35,7 +37,6 @@ def setup(log_json_dir):
     os.makedirs(log_json_dir, exist_ok=True)
     os.makedirs(os.path.join(log_json_dir, "train"), exist_ok=True)
     os.makedirs(os.path.join(log_json_dir, "val"), exist_ok=True)
-    os.makedirs(os.path.join(log_json_dir, "checkpoints"), exist_ok=True)
 
 def get_model(model_name):
     tokenizer = AutoTokenizer.from_pretrained(model_name)
@@ -98,7 +99,7 @@ class CommonsenseQAParser:
 
 
 @torch.no_grad()
-def sample_no_grad(model, tokenizer, batch_prompt_ids, max_new_tokens=512, temp=0.7):
+def sample_no_grad(model, tokenizer, batch_prompt_ids, max_new_tokens=256, temp=0.7):
     # `batch_prompt_ids` is shape (B, T)
     seq = model.generate(
         batch_prompt_ids,
@@ -165,7 +166,7 @@ def get_batches(dataset, parser, batch_size):
         yield prompt_strs, raw_qs, correct_keys
 
 def train(model_name, temp, max_new_tokens, batch_size, num_epochs, train_size, val_size, log_every, out_dir, 
-          save_checkpoint_every=100, reward_type="binary"):
+          save_checkpoint_every=100, reward_type="binary", lr=5e-7):
     log_json_dir = os.path.join(args.out_dir, "batch_logs")
     model, tokenizer = get_model(model_name)
     # Subsample training to 5000 examples
@@ -175,7 +176,7 @@ def train(model_name, temp, max_new_tokens, batch_size, num_epochs, train_size, 
 
     writer = SummaryWriter(out_dir)
     parser = CommonsenseQAParser(tokenizer)
-    optimizer = optim.AdamW(model.parameters(), lr=3.5e-6)
+    optimizer = optim.AdamW(model.parameters(), lr=lr)
 
     # Pre-process datasets to avoid repeated parsing
     print("Pre-processing datasets...")
@@ -253,6 +254,7 @@ def train(model_name, temp, max_new_tokens, batch_size, num_epochs, train_size, 
                     "epoch": epoch + 1,
                     "batch": batch_idx,
                     "question": raw_qs[0],
+                    "full_llm_output": gen_strs[0],
                     "rationale": rationales[0],
                     "predicted_answer": pred_answers[0] if pred_answers[0] else "None",
                     "correct_answer": correct_answers[0],
@@ -295,14 +297,14 @@ def train(model_name, temp, max_new_tokens, batch_size, num_epochs, train_size, 
                             max_length=max_new_tokens
                         ).input_ids.to(device)
 
-                        val_gen_ids = sample_no_grad(model, val_prompt_ids, 
+                        val_gen_ids = sample_no_grad(model, tokenizer, val_prompt_ids, 
                                                 max_new_tokens=max_new_tokens, temp=temp)
                         val_gen_strs = tokenizer.batch_decode(val_gen_ids, skip_special_tokens=True)
                         
                         val_parsed = [parser.parse_llm_output(gen) for gen in val_gen_strs]
                         val_rationales, val_pred_answers = zip(*val_parsed)
                         
-                        val_logp = compute_logprobs(model, val_prompt_ids, val_gen_ids, temp=temp)
+                        val_logp = compute_logprobs(model, tokenizer, val_prompt_ids, val_gen_ids, temp=temp)
                         val_rwds = torch.tensor([
                             compute_binary_reward(ans, corr)
                             for ans, corr in zip(val_pred_answers, val_correct_answers)
@@ -320,7 +322,7 @@ def train(model_name, temp, max_new_tokens, batch_size, num_epochs, train_size, 
                             val_loss = -((val_rwds - baseline) * val_logp).mean()
                         elif reward_type == "normalized_binary_variance":
                             baseline = val_rwds.mean()
-                            variance = rewards.var(unbiased=False) + 1e-8 
+                            variance = val_rwds.var(unbiased=False) + 1e-8 
                             val_loss = -((val_rwds - baseline) / variance * val_logp).mean()
                         else:
                             raise ValueError(f"Invalid reward_type: {reward_type}.")
@@ -393,7 +395,9 @@ if __name__ == "__main__":
     # model_name = "Qwen/Qwen2.5-0.5B-Instruct" #Qwen/Qwen3-1.7B
     args = parse_args()
     pprint.pprint(vars(args))
+    if os.path.exists(args.out_dir) and os.path.isdir(args.out_dir):
+        shutil.rmtree(args.out_dir)
     os.makedirs(args.out_dir, exist_ok=True)
     setup(os.path.join(args.out_dir, "batch_logs"))
     train(args.model_name, args.temp, args.max_new_tokens, args.batch_size, args.num_epochs, args.train_size,
-          args.val_size, args.log_every, args.out_dir, args.save_checkpoint_every, args.reward_type)
+          args.val_size, args.log_every, args.out_dir, args.save_checkpoint_every, args.reward_type, args.lr)
