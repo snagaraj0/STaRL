@@ -129,7 +129,7 @@ def compute_logprobs(model, tokenizer, batch_prompt_ids, batch_gen_ids, temp=0.7
 
 # PRM reward function
 def compute_LM_reward(correct_answer, question, rationale):
-    api_key = "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"
+    api_key = "" # REPLACE WITH MODEL KEY
     client = openai.OpenAI(api_key=api_key)
     
     prompt = f"""Given the below question, whose correct answer is ({correct_answer}), assign a numerical score to between -1 (poor) and 1 (excellent) to the given response. Score the response based on the quality of reasoning, logical coherence and consistency, and accuracy in answering the question.
